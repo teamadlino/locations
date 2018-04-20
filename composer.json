@@ -1,0 +1,29 @@
+{
+    "name": "adlino/iran-geo",
+    "description": "Iran provinces database as Laravel package",
+    "keywords": [
+        "iran",
+        "geo",
+        "provinces",
+        "cities",
+        "laravel",
+        "adlino"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alireza Hamedashki",
+            "email": "a.hamedashki@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "illuminate/support": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adlino\\IranGeo\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
