@@ -38,7 +38,8 @@ class IranGeoServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/Config/irGeo.php' => config_path('irGeo.php')
+            __DIR__ . '/Config/irGeo.php' => config_path('irGeo.php'),
+            __DIR__ . '/Migrations' => database_path('migrations')
         ], 'irGeo');
     }
 }
