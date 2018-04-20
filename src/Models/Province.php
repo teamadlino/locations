@@ -12,5 +12,27 @@ namespace Adlino\IranGeo\Models;
 
 class Province
 {
+    public $timestamps = false;
 
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'name',
+        'name_en',
+        'latitude',
+        'longitude'
+    ];
+
+    /**
+     * Relations with cities
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function cities()
+    {
+        return $this->hasMany(City::class);
+    }
 }
