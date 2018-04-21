@@ -1,6 +1,6 @@
 {
     "name": "adlino/iran-geo",
-    "description": "Iran provinces database as Laravel package",
+    "description": "Iran Provinces and Cities helper for Laravel.",
     "keywords": [
         "iran",
         "geo",
@@ -21,9 +21,14 @@
         "illuminate/support": "^5.0"
     },
     "autoload": {
+        "classmap": [
+            "database/migrations/",
+            "database/seeds/"
+        ],
         "psr-4": {
             "Adlino\\IranGeo\\": "src"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
