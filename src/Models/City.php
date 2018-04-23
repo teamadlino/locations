@@ -10,7 +10,9 @@
 namespace Adlino\IranGeo\Models;
 
 
-class City
+use Illuminate\Database\Eloquent\Model;
+
+class City extends Model
 {
     public $timestamps = false;
 

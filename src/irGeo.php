@@ -10,7 +10,15 @@
 namespace Adlino\IranGeo;
 
 
+use Adlino\IranGeo\Models\Province;
+
 class irGeo
 {
-    //
+    /**
+     * @return \Illuminate\Database\Eloquent\Collection|static[]
+     */
+    public function provinces()
+    {
+        return Province::all();
+    }
 }

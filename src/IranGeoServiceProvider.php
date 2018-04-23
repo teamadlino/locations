@@ -26,8 +26,6 @@ class IranGeoServiceProvider extends ServiceProvider
         $this->app->bind('irGeo', function () {
             return new irGeo;
         });
-
-        $this->mergeConfigFrom(__DIR__ . '/Config/irGeo.php', 'geo');
     }
 
     /**
@@ -38,8 +36,7 @@ class IranGeoServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/Config/irGeo.php' => config_path('irGeo.php'),
-            __DIR__ . '/Migrations' => database_path('migrations')
+            __DIR__ . '/Database/Migrations' => database_path('migrations')
         ], 'irGeo');
     }
 }
