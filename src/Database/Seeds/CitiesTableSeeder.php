@@ -350,6 +350,270 @@ class CitiesTableSeeder extends Seeder
                 'name_en' => 'Nir',
                 'latitude' => '38.03472200',
                 'longitude' => '47.99861100'
+            ],
+            [
+                'id' => 43,
+                'province_id' => 4,
+                'name' => 'آران و بیدگل',
+                'name_en' => 'Aran va Bidgol',
+                'latitude' => '34.05777800',
+                'longitude' => '51.48416700'
+            ],
+            [
+                'id' => 44,
+                'province_id' => 4,
+                'name' => 'اردستان',
+                'name_en' => 'Ardestan',
+                'latitude' => '33.37611100',
+                'longitude' => '52.36944400'
+            ],
+            [
+                'id' => 45,
+                'province_id' => 4,
+                'name' => 'اصفهان',
+                'name_en' => 'Isfahan',
+                'latitude' => '32.65462750',
+                'longitude' => '51.66798260'
+            ],
+            [
+                'id' => 46,
+                'province_id' => 4,
+                'name' => 'برخوار و میمه',
+                'name_en' => 'Borkhar and Meymeh',
+                'latitude' => '32.83333300',
+                'longitude' => '51.77500000'
+            ],
+            [
+                'id' => 47,
+                'province_id' => 4,
+                'name' => 'تیران و کرون',
+                'name_en' => 'Tiran and Karvan',
+                'latitude' => null,
+                'longitude' => null
+            ],
+            [
+                'id' => 48,
+                'province_id' => 4,
+                'name' => 'چادگان',
+                'name_en' => 'Chadegan',
+                'latitude' => '32.76833300',
+                'longitude' => '50.62861100'
+            ],
+            [
+                'id' => 49,
+                'province_id' => 4,
+                'name' => 'خمینی شهر',
+                'name_en' => 'Khomeyni Shahr',
+                'latitude' => '32.70027800',
+                'longitude' => '51.52111100'
+            ],
+            [
+                'id' => 50,
+                'province_id' => 4,
+                'name' => 'خوانسار',
+                'name_en' => 'Khvansar',
+                'latitude' => '33.22055600',
+                'longitude' => '50.31500000'
+            ],
+            [
+                'id' => 51,
+                'province_id' => 4,
+                'name' => 'سمیرم',
+                'name_en' => 'Semirom',
+                'latitude' => '31.39883460',
+                'longitude' => '51.56759300'
+            ],
+            [
+                'id' => 52,
+                'province_id' => 4,
+                'name' => 'شاهین شهر و میمه',
+                'name_en' => 'Shahin Shahr and Meymeh',
+                'latitude' => '33.12718520',
+                'longitude' => '51.51500770'
+            ],
+            [
+                'id' => 53,
+                'province_id' => 4,
+                'name' => 'شهر رضا',
+                'name_en' => 'Shahreza',
+                'latitude' => '36.29244520',
+                'longitude' => '59.56771490'
+            ],
+            [
+                'id' => 54,
+                'province_id' => 4,
+                'name' => 'دهاقان',
+                'name_en' => 'Dehaqan',
+                'latitude' => '31.94000000',
+                'longitude' => '51.64777800'
+            ],
+            [
+                'id' => 55,
+                'province_id' => 4,
+                'name' => 'فریدن',
+                'name_en' => 'Faridan',
+                'latitude' => '33.02148290',
+                'longitude' => '50.30690880'
+            ],
+            [
+                'id' => 56,
+                'province_id' => 4,
+                'name' => 'فریدون شهر',
+                'name_en' => 'Fereydunshahr',
+                'latitude' => '32.94111100',
+                'longitude' => '50.12111100'
+            ],
+            [
+                'id' => 57,
+                'province_id' => 4,
+                'name' => 'فلاورجان',
+                'name_en' => 'Falavarjan',
+                'latitude' => '32.55527800',
+                'longitude' => '51.50972200'
+            ],
+            [
+                'id' => 58,
+                'province_id' => 4,
+                'name' => 'کاشان',
+                'name_en' => 'Kashan',
+                'latitude' => '33.98503580',
+                'longitude' => '51.40996250'
+            ],
+            [
+                'id' => 59,
+                'province_id' => 4,
+                'name' => 'گلپایگان',
+                'name_en' => 'Golpayegan',
+                'latitude' => '33.45361100',
+                'longitude' => '50.28833300'
+            ],
+            [
+                'id' => 60,
+                'province_id' => 4,
+                'name' => 'لنجان',
+                'name_en' => 'Lenjan',
+                'latitude' => '32.47501680',
+                'longitude' => '51.30508510'
+            ],
+            [
+                'id' => 61,
+                'province_id' => 4,
+                'name' => 'مبارکه',
+                'name_en' => 'Mobarakeh',
+                'latitude' => '32.34638900',
+                'longitude' => '51.50444400'
+            ],
+            [
+                'id' => 62,
+                'province_id' => 4,
+                'name' => 'نائین',
+                'name_en' => 'Nain',
+                'latitude' => '32.85994450',
+                'longitude' => '53.08783210'
+            ],
+            [
+                'id' => 63,
+                'province_id' => 4,
+                'name' => 'نجف آباد',
+                'name_en' => 'Najafabad',
+                'latitude' => '32.63242310',
+                'longitude' => '51.36799140'
+            ],
+            [
+                'id' => 64,
+                'province_id' => 4,
+                'name' => 'نطنز',
+                'name_en' => 'Natanz',
+                'latitude' => '33.51333300',
+                'longitude' => '51.91638900'
+            ],
+            [
+                'id' => 65,
+                'province_id' => 5,
+                'name' => 'ساوجبلاق',
+                'name_en' => 'Savojbolagh',
+                'latitude' => '38.37879410',
+                'longitude' => '47.49743590'
+            ],
+            [
+                'id' => 66,
+                'province_id' => 5,
+                'name' => 'کرج',
+                'name_en' => 'Karaj',
+                'latitude' => '35.84001880',
+                'longitude' => '50.93909060'
+            ],
+            [
+                'id' => 67,
+                'province_id' => 5,
+                'name' => 'نظرآباد',
+                'name_en' => 'Nazarabad',
+                'latitude' => '35.95222200',
+                'longitude' => '50.60750000'
+            ],
+            [
+                'id' => 68,
+                'province_id' => 5,
+                'name' => 'طالقان',
+                'name_en' => 'Taleqan',
+                'latitude' => '33.27291710',
+                'longitude' => '52.19853140'
+            ],
+            [
+                'id' => 69,
+                'province_id' => 6,
+                'name' => 'آبدانان',
+                'name_en' => 'Abdanan',
+                'latitude' => '32.99250000',
+                'longitude' => '47.41972200'
+            ],
+            [
+                'id' => 70,
+                'province_id' => 6,
+                'name' => 'ایلام',
+                'name_en' => 'Ilam',
+                'latitude' => '33.29576180',
+                'longitude' => '46.67053400'
+            ],
+            [
+                'id' => 71,
+                'province_id' => 6,
+                'name' => 'ایوان',
+                'name_en' => 'Eyvan',
+                'latitude' => '33.82722200',
+                'longitude' => '46.30972200'
+            ],
+            [
+                'id' => 72,
+                'province_id' => 6,
+                'name' => 'دره شهر',
+                'name_en' => 'Darreh Shahr',
+                'latitude' => '33.13972200',
+                'longitude' => '47.37611100'
+            ],
+            [
+                'id' => 73,
+                'province_id' => 6,
+                'name' => 'دهلران',
+                'name_en' => 'Dehloran',
+                'latitude' => '32.69416700',
+                'longitude' => '47.26777800'
+            ],
+            [
+                'id' => 74,
+                'province_id' => 6,
+                'name' => 'شیران و چرداول',
+                'name_en' => 'Chardavol',
+                'latitude' => '33.69383480',
+                'longitude' => '46.74784930'
+            ],
+            [
+                'id' => 75,
+                'province_id' => 6,
+                'name' => 'مهران',
+                'name_en' => 'Mehran',
+                'latitude' => '33.12222200',
+                'longitude' => '46.16472200'
             ]
         ]);
     }
