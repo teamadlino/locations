@@ -18,7 +18,7 @@ class irGeo
     /**
      * @return \Illuminate\Database\Eloquent\Collection|static[]
      */
-    public function provinces()
+    public function getAllProvinces()
     {
         return Province::whereApproved(true)->get();
     }
@@ -26,7 +26,7 @@ class irGeo
     /**
      * @return mixed
      */
-    public function cities()
+    public function getAllCities()
     {
         return City::whereApproved(true)->get();
     }
