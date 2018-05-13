@@ -21,6 +21,11 @@ In your `config/app.php` add `Adlino\IranGeo\IranGeoServiceProvider::class` to t
     ...
     Adlino\IranGeo\IranGeoServiceProvider::class,
 ],
+
+'alias' => [
+    ...
+    'irGeo' => Adlino\IranGeo\Facades\irGeoFacade::class
+]
 ```
 
 Publish Configuration

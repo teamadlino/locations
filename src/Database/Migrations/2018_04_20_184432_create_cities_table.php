@@ -15,14 +15,14 @@ class CreateCitiesTable extends Migration
     {
         Schema::create('cities', function (Blueprint $table) {
             $table->increments('id');
-
             $table->integer('province_id')->unsigned();
-            $table->foreign('province_id')->references('id')->on('provinces')->onDelete('cascade');
-
+            $table->foreign('province_id')->references('id')
+                ->on('provinces')->onDelete('cascade');
             $table->string('name', 64);
             $table->string('name_en', 64)->nullable();
             $table->decimal('latitude')->nullable();
             $table->decimal('longitude')->nullable();
+            $table->boolean('approved')->default(true);
         });
     }
 

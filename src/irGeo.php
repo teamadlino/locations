@@ -10,6 +10,7 @@
 namespace Adlino\IranGeo;
 
 
+use Adlino\IranGeo\Models\City;
 use Adlino\IranGeo\Models\Province;
 
 class irGeo
@@ -19,6 +20,14 @@ class irGeo
      */
     public function provinces()
     {
-        return Province::all();
+        return Province::whereApproved(true)->get();
+    }
+
+    /**
+     * @return mixed
+     */
+    public function cities()
+    {
+        return City::whereApproved(true)->get();
     }
 }
