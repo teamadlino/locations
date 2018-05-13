@@ -7,7 +7,7 @@
  * Time: 3:12 PM
  */
 
-namespace Adlino\IranGeo\Facade;
+namespace Adlino\IranGeo\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
