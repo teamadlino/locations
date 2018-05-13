@@ -19,7 +19,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 1,
                 'province_id' => 1,
                 'name' => 'آذرشهر',
-                'name_en' => 'Azarshahr',
+                'en_name' => 'Azarshahr',
                 'latitude' => '37.75888900',
                 'longitude' => '45.97833300'
             ],
@@ -27,7 +27,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 2,
                 'province_id' => 1,
                 'name' => 'اسکو',
-                'name_en' => 'Osku',
+                'en_name' => 'Osku',
                 'latitude' => '37.91583300',
                 'longitude' => '46.12361100'
             ],
@@ -35,7 +35,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 3,
                 'province_id' => 1,
                 'name' => 'اهر',
-                'name_en' => 'Ahar',
+                'en_name' => 'Ahar',
                 'latitude' => '38.48943050',
                 'longitude' => '47.06835750'
             ],
@@ -43,7 +43,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 4,
                 'province_id' => 1,
                 'name' => 'بستان آباد',
-                'name_en' => 'Bostanabad',
+                'en_name' => 'Bostanabad',
                 'latitude' => '37.85000000',
                 'longitude' => '46.83333300'
             ],
@@ -51,7 +51,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 5,
                 'province_id' => 1,
                 'name' => 'بناب',
-                'name_en' => 'Bonab',
+                'en_name' => 'Bonab',
                 'latitude' => '37.34027800',
                 'longitude' => '46.05611100'
             ],
@@ -59,7 +59,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 6,
                 'province_id' => 1,
                 'name' => 'تبریز',
-                'name_en' => 'Tabriz',
+                'en_name' => 'Tabriz',
                 'latitude' => '38.06666700',
                 'longitude' => '46.30000000'
             ],
@@ -67,7 +67,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 7,
                 'province_id' => 1,
                 'name' => 'جلفا',
-                'name_en' => 'Jolfa',
+                'en_name' => 'Jolfa',
                 'latitude' => '38.94027800',
                 'longitude' => '45.63083300'
             ],
@@ -75,7 +75,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 8,
                 'province_id' => 1,
                 'name' => 'چار اویماق',
-                'name_en' => 'Charuymaq',
+                'en_name' => 'Charuymaq',
                 'latitude' => '37.12990520',
                 'longitude' => '47.02456860'
             ],
@@ -83,7 +83,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 9,
                 'province_id' => 1,
                 'name' => 'سراب',
-                'name_en' => 'Sarab',
+                'en_name' => 'Sarab',
                 'latitude' => '37.94083300',
                 'longitude' => '47.53666700'
             ],
@@ -91,7 +91,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 10,
                 'province_id' => 1,
                 'name' => 'شبستر',
-                'name_en' => 'Shabestar',
+                'en_name' => 'Shabestar',
                 'latitude' => '38.18027800',
                 'longitude' => '45.70277800'
             ],
@@ -99,7 +99,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 11,
                 'province_id' => 1,
                 'name' => 'عجبشیر',
-                'name_en' => 'Ajab Shir',
+                'en_name' => 'Ajab Shir',
                 'latitude' => '37.47750000',
                 'longitude' => '45.89416700'
             ],
@@ -107,7 +107,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 12,
                 'province_id' => 1,
                 'name' => 'کلیبر',
-                'name_en' => 'Kaleybar',
+                'en_name' => 'Kaleybar',
                 'latitude' => '38.86944400',
                 'longitude' => '47.03555600'
             ],
@@ -115,7 +115,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 13,
                 'province_id' => 1,
                 'name' => 'مراغه',
-                'name_en' => 'Maragheh',
+                'en_name' => 'Maragheh',
                 'latitude' => '37.38916700',
                 'longitude' => '46.23750000'
             ],
@@ -123,7 +123,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 14,
                 'province_id' => 1,
                 'name' => 'مرند',
-                'name_en' => 'Marand',
+                'en_name' => 'Marand',
                 'latitude' => '38.42511700',
                 'longitude' => '45.76963600'
             ],
@@ -131,7 +131,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 15,
                 'province_id' => 1,
                 'name' => 'ملکان',
-                'name_en' => 'Malekan',
+                'en_name' => 'Malekan',
                 'latitude' => '37.14562500',
                 'longitude' => '46.16852420'
             ],
@@ -139,7 +139,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 16,
                 'province_id' => 1,
                 'name' => 'میانه',
-                'name_en' => 'Mianeh',
+                'en_name' => 'Mianeh',
                 'latitude' => '37.42111100',
                 'longitude' => '47.71500000'
             ],
@@ -147,7 +147,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 17,
                 'province_id' => 1,
                 'name' => 'ورزقان',
-                'name_en' => 'Varzaqan',
+                'en_name' => 'Varzaqan',
                 'latitude' => '38.50972200',
                 'longitude' => '46.65444400'
             ],
@@ -155,7 +155,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 18,
                 'province_id' => 1,
                 'name' => 'هریس',
-                'name_en' => 'Heris',
+                'en_name' => 'Heris',
                 'latitude' => '29.77518250',
                 'longitude' => '-95.31025050'
             ],
@@ -163,7 +163,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 19,
                 'province_id' => 1,
                 'name' => 'هشترود',
-                'name_en' => 'Hashtrud',
+                'en_name' => 'Hashtrud',
                 'latitude' => '37.47777800',
                 'longitude' => '47.05083300'
             ],
@@ -171,7 +171,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 20,
                 'province_id' => 2,
                 'name' => 'ارومیه',
-                'name_en' => 'Urmia',
+                'en_name' => 'Urmia',
                 'latitude' => '37.55527800',
                 'longitude' => '45.07250000'
             ],
@@ -179,7 +179,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 21,
                 'province_id' => 2,
                 'name' => 'اشنویه',
-                'name_en' => 'Oshnavieh',
+                'en_name' => 'Oshnavieh',
                 'latitude' => '37.03972200',
                 'longitude' => '45.09833300'
             ],
@@ -187,7 +187,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 22,
                 'province_id' => 2,
                 'name' => 'بوکان',
-                'name_en' => 'Bukan',
+                'en_name' => 'Bukan',
                 'latitude' => '36.52111100',
                 'longitude' => '46.20888900'
             ],
@@ -195,7 +195,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 23,
                 'province_id' => 2,
                 'name' => 'پیرانشهر',
-                'name_en' => 'Piranshahr',
+                'en_name' => 'Piranshahr',
                 'latitude' => '36.69444400',
                 'longitude' => '45.14166700'
             ],
@@ -203,7 +203,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 24,
                 'province_id' => 2,
                 'name' => 'تکاب',
-                'name_en' => 'Takab',
+                'en_name' => 'Takab',
                 'latitude' => '36.40083300',
                 'longitude' => '47.11333300'
             ],
@@ -211,7 +211,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 25,
                 'province_id' => 2,
                 'name' => 'چالدران',
-                'name_en' => 'Chaldoran',
+                'en_name' => 'Chaldoran',
                 'latitude' => '39.06498370',
                 'longitude' => '44.38446790'
             ],
@@ -219,7 +219,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 26,
                 'province_id' => 2,
                 'name' => 'خوی',
-                'name_en' => 'Khoy',
+                'en_name' => 'Khoy',
                 'latitude' => '38.55027800',
                 'longitude' => '44.95222200'
             ],
@@ -227,7 +227,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 27,
                 'province_id' => 2,
                 'name' => 'سردشت',
-                'name_en' => 'Sardasht',
+                'en_name' => 'Sardasht',
                 'latitude' => '36.15527800',
                 'longitude' => '45.47888900'
             ],
@@ -235,7 +235,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 28,
                 'province_id' => 2,
                 'name' => 'سلماس',
-                'name_en' => 'Salmas',
+                'en_name' => 'Salmas',
                 'latitude' => '38.19722200',
                 'longitude' => '44.76527800'
             ],
@@ -243,7 +243,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 29,
                 'province_id' => 2,
                 'name' => 'شاهین دژ',
-                'name_en' => 'Shahin Dezh',
+                'en_name' => 'Shahin Dezh',
                 'latitude' => '36.67916700',
                 'longitude' => '46.56694400'
             ],
@@ -251,7 +251,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 30,
                 'province_id' => 2,
                 'name' => 'ماکو',
-                'name_en' => 'Maku',
+                'en_name' => 'Maku',
                 'latitude' => '39.29527800',
                 'longitude' => '44.51666700'
             ],
@@ -259,7 +259,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 31,
                 'province_id' => 2,
                 'name' => 'مهاباد',
-                'name_en' => 'Mahabad',
+                'en_name' => 'Mahabad',
                 'latitude' => '36.76305600',
                 'longitude' => '45.72222200'
             ],
@@ -267,7 +267,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 32,
                 'province_id' => 2,
                 'name' => 'میاندوآب',
-                'name_en' => 'Miandoab',
+                'en_name' => 'Miandoab',
                 'latitude' => '36.96944400',
                 'longitude' => '46.10277800'
             ],
@@ -275,7 +275,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 33,
                 'province_id' => 2,
                 'name' => 'نقده',
-                'name_en' => 'Naqadeh',
+                'en_name' => 'Naqadeh',
                 'latitude' => '36.95527800',
                 'longitude' => '45.38805600'
             ],
@@ -283,7 +283,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 34,
                 'province_id' => 3,
                 'name' => 'اردبیل',
-                'name_en' => 'Ardabil',
+                'en_name' => 'Ardabil',
                 'latitude' => '38.48532760',
                 'longitude' => '47.89112090'
             ],
@@ -291,7 +291,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 35,
                 'province_id' => 3,
                 'name' => 'بیله سوار',
-                'name_en' => 'Bileh Bileh Savar',
+                'en_name' => 'Bileh Bileh Savar',
                 'latitude' => '39.35677750',
                 'longitude' => '47.94907650'
             ],
@@ -299,7 +299,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 36,
                 'province_id' => 3,
                 'name' => 'پارس آباد',
-                'name_en' => 'Parsabad',
+                'en_name' => 'Parsabad',
                 'latitude' => '39.64833300',
                 'longitude' => '47.91750000'
             ],
@@ -307,7 +307,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 37,
                 'province_id' => 3,
                 'name' => 'خلخال',
-                'name_en' => 'Khalkhal',
+                'en_name' => 'Khalkhal',
                 'latitude' => '37.61888900',
                 'longitude' => '48.52583300'
             ],
@@ -315,7 +315,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 38,
                 'province_id' => 3,
                 'name' => 'کوثر',
-                'name_en' => 'Kowsar',
+                'en_name' => 'Kowsar',
                 'latitude' => '31.86768660',
                 'longitude' => '54.33798020'
             ],
@@ -323,7 +323,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 39,
                 'province_id' => 3,
                 'name' => 'گرمی',
-                'name_en' => 'Germi',
+                'en_name' => 'Germi',
                 'latitude' => '39.03722670',
                 'longitude' => '47.92770210'
             ],
@@ -331,7 +331,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 40,
                 'province_id' => 3,
                 'name' => 'مشگین',
-                'name_en' => 'Meshginshahr',
+                'en_name' => 'Meshginshahr',
                 'latitude' => '38.39888900',
                 'longitude' => '47.68194400'
             ],
@@ -339,7 +339,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 41,
                 'province_id' => 3,
                 'name' => 'نمین',
-                'name_en' => 'Namin',
+                'en_name' => 'Namin',
                 'latitude' => '38.42694400',
                 'longitude' => '48.48388900'
             ],
@@ -347,7 +347,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 42,
                 'province_id' => 3,
                 'name' => 'نیر',
-                'name_en' => 'Nir',
+                'en_name' => 'Nir',
                 'latitude' => '38.03472200',
                 'longitude' => '47.99861100'
             ],
@@ -355,7 +355,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 43,
                 'province_id' => 4,
                 'name' => 'آران و بیدگل',
-                'name_en' => 'Aran va Bidgol',
+                'en_name' => 'Aran va Bidgol',
                 'latitude' => '34.05777800',
                 'longitude' => '51.48416700'
             ],
@@ -363,7 +363,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 44,
                 'province_id' => 4,
                 'name' => 'اردستان',
-                'name_en' => 'Ardestan',
+                'en_name' => 'Ardestan',
                 'latitude' => '33.37611100',
                 'longitude' => '52.36944400'
             ],
@@ -371,7 +371,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 45,
                 'province_id' => 4,
                 'name' => 'اصفهان',
-                'name_en' => 'Isfahan',
+                'en_name' => 'Isfahan',
                 'latitude' => '32.65462750',
                 'longitude' => '51.66798260'
             ],
@@ -379,7 +379,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 46,
                 'province_id' => 4,
                 'name' => 'برخوار و میمه',
-                'name_en' => 'Borkhar and Meymeh',
+                'en_name' => 'Borkhar and Meymeh',
                 'latitude' => '32.83333300',
                 'longitude' => '51.77500000'
             ],
@@ -387,7 +387,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 47,
                 'province_id' => 4,
                 'name' => 'تیران و کرون',
-                'name_en' => 'Tiran and Karvan',
+                'en_name' => 'Tiran and Karvan',
                 'latitude' => null,
                 'longitude' => null
             ],
@@ -395,7 +395,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 48,
                 'province_id' => 4,
                 'name' => 'چادگان',
-                'name_en' => 'Chadegan',
+                'en_name' => 'Chadegan',
                 'latitude' => '32.76833300',
                 'longitude' => '50.62861100'
             ],
@@ -403,7 +403,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 49,
                 'province_id' => 4,
                 'name' => 'خمینی شهر',
-                'name_en' => 'Khomeyni Shahr',
+                'en_name' => 'Khomeyni Shahr',
                 'latitude' => '32.70027800',
                 'longitude' => '51.52111100'
             ],
@@ -411,7 +411,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 50,
                 'province_id' => 4,
                 'name' => 'خوانسار',
-                'name_en' => 'Khvansar',
+                'en_name' => 'Khvansar',
                 'latitude' => '33.22055600',
                 'longitude' => '50.31500000'
             ],
@@ -419,7 +419,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 51,
                 'province_id' => 4,
                 'name' => 'سمیرم',
-                'name_en' => 'Semirom',
+                'en_name' => 'Semirom',
                 'latitude' => '31.39883460',
                 'longitude' => '51.56759300'
             ],
@@ -427,7 +427,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 52,
                 'province_id' => 4,
                 'name' => 'شاهین شهر و میمه',
-                'name_en' => 'Shahin Shahr and Meymeh',
+                'en_name' => 'Shahin Shahr and Meymeh',
                 'latitude' => '33.12718520',
                 'longitude' => '51.51500770'
             ],
@@ -435,7 +435,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 53,
                 'province_id' => 4,
                 'name' => 'شهر رضا',
-                'name_en' => 'Shahreza',
+                'en_name' => 'Shahreza',
                 'latitude' => '36.29244520',
                 'longitude' => '59.56771490'
             ],
@@ -443,7 +443,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 54,
                 'province_id' => 4,
                 'name' => 'دهاقان',
-                'name_en' => 'Dehaqan',
+                'en_name' => 'Dehaqan',
                 'latitude' => '31.94000000',
                 'longitude' => '51.64777800'
             ],
@@ -451,7 +451,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 55,
                 'province_id' => 4,
                 'name' => 'فریدن',
-                'name_en' => 'Faridan',
+                'en_name' => 'Faridan',
                 'latitude' => '33.02148290',
                 'longitude' => '50.30690880'
             ],
@@ -459,7 +459,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 56,
                 'province_id' => 4,
                 'name' => 'فریدون شهر',
-                'name_en' => 'Fereydunshahr',
+                'en_name' => 'Fereydunshahr',
                 'latitude' => '32.94111100',
                 'longitude' => '50.12111100'
             ],
@@ -467,7 +467,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 57,
                 'province_id' => 4,
                 'name' => 'فلاورجان',
-                'name_en' => 'Falavarjan',
+                'en_name' => 'Falavarjan',
                 'latitude' => '32.55527800',
                 'longitude' => '51.50972200'
             ],
@@ -475,7 +475,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 58,
                 'province_id' => 4,
                 'name' => 'کاشان',
-                'name_en' => 'Kashan',
+                'en_name' => 'Kashan',
                 'latitude' => '33.98503580',
                 'longitude' => '51.40996250'
             ],
@@ -483,7 +483,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 59,
                 'province_id' => 4,
                 'name' => 'گلپایگان',
-                'name_en' => 'Golpayegan',
+                'en_name' => 'Golpayegan',
                 'latitude' => '33.45361100',
                 'longitude' => '50.28833300'
             ],
@@ -491,7 +491,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 60,
                 'province_id' => 4,
                 'name' => 'لنجان',
-                'name_en' => 'Lenjan',
+                'en_name' => 'Lenjan',
                 'latitude' => '32.47501680',
                 'longitude' => '51.30508510'
             ],
@@ -499,7 +499,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 61,
                 'province_id' => 4,
                 'name' => 'مبارکه',
-                'name_en' => 'Mobarakeh',
+                'en_name' => 'Mobarakeh',
                 'latitude' => '32.34638900',
                 'longitude' => '51.50444400'
             ],
@@ -507,7 +507,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 62,
                 'province_id' => 4,
                 'name' => 'نائین',
-                'name_en' => 'Nain',
+                'en_name' => 'Nain',
                 'latitude' => '32.85994450',
                 'longitude' => '53.08783210'
             ],
@@ -515,7 +515,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 63,
                 'province_id' => 4,
                 'name' => 'نجف آباد',
-                'name_en' => 'Najafabad',
+                'en_name' => 'Najafabad',
                 'latitude' => '32.63242310',
                 'longitude' => '51.36799140'
             ],
@@ -523,7 +523,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 64,
                 'province_id' => 4,
                 'name' => 'نطنز',
-                'name_en' => 'Natanz',
+                'en_name' => 'Natanz',
                 'latitude' => '33.51333300',
                 'longitude' => '51.91638900'
             ],
@@ -531,7 +531,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 65,
                 'province_id' => 5,
                 'name' => 'ساوجبلاق',
-                'name_en' => 'Savojbolagh',
+                'en_name' => 'Savojbolagh',
                 'latitude' => '38.37879410',
                 'longitude' => '47.49743590'
             ],
@@ -539,7 +539,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 66,
                 'province_id' => 5,
                 'name' => 'کرج',
-                'name_en' => 'Karaj',
+                'en_name' => 'Karaj',
                 'latitude' => '35.84001880',
                 'longitude' => '50.93909060'
             ],
@@ -547,7 +547,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 67,
                 'province_id' => 5,
                 'name' => 'نظرآباد',
-                'name_en' => 'Nazarabad',
+                'en_name' => 'Nazarabad',
                 'latitude' => '35.95222200',
                 'longitude' => '50.60750000'
             ],
@@ -555,7 +555,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 68,
                 'province_id' => 5,
                 'name' => 'طالقان',
-                'name_en' => 'Taleqan',
+                'en_name' => 'Taleqan',
                 'latitude' => '33.27291710',
                 'longitude' => '52.19853140'
             ],
@@ -563,7 +563,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 69,
                 'province_id' => 6,
                 'name' => 'آبدانان',
-                'name_en' => 'Abdanan',
+                'en_name' => 'Abdanan',
                 'latitude' => '32.99250000',
                 'longitude' => '47.41972200'
             ],
@@ -571,7 +571,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 70,
                 'province_id' => 6,
                 'name' => 'ایلام',
-                'name_en' => 'Ilam',
+                'en_name' => 'Ilam',
                 'latitude' => '33.29576180',
                 'longitude' => '46.67053400'
             ],
@@ -579,7 +579,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 71,
                 'province_id' => 6,
                 'name' => 'ایوان',
-                'name_en' => 'Eyvan',
+                'en_name' => 'Eyvan',
                 'latitude' => '33.82722200',
                 'longitude' => '46.30972200'
             ],
@@ -587,7 +587,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 72,
                 'province_id' => 6,
                 'name' => 'دره شهر',
-                'name_en' => 'Darreh Shahr',
+                'en_name' => 'Darreh Shahr',
                 'latitude' => '33.13972200',
                 'longitude' => '47.37611100'
             ],
@@ -595,7 +595,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 73,
                 'province_id' => 6,
                 'name' => 'دهلران',
-                'name_en' => 'Dehloran',
+                'en_name' => 'Dehloran',
                 'latitude' => '32.69416700',
                 'longitude' => '47.26777800'
             ],
@@ -603,7 +603,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 74,
                 'province_id' => 6,
                 'name' => 'شیران و چرداول',
-                'name_en' => 'Chardavol',
+                'en_name' => 'Chardavol',
                 'latitude' => '33.69383480',
                 'longitude' => '46.74784930'
             ],
@@ -611,7 +611,7 @@ class CitiesTableSeeder extends Seeder
                 'id' => 75,
                 'province_id' => 6,
                 'name' => 'مهران',
-                'name_en' => 'Mehran',
+                'en_name' => 'Mehran',
                 'latitude' => '33.12222200',
                 'longitude' => '46.16472200'
             ],
@@ -619,7 +619,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' =>101 ,
 		        'province_id' => 10,
 		        'name' => 'بیرجند',
-		        'name_en' => 'birjand',
+		        'en_name' => 'birjand',
 		        'latitude' => '32.86490390',
 		        'longitude' => '59.22624720'
 	        ],
@@ -627,7 +627,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 102,
 		        'province_id' =>10 ,
 		        'name' => 'درمیان',
-		        'name_en' => 'darmian',
+		        'en_name' => 'darmian',
 		        'latitude' => '33.03394050',
 		        'longitude' => '60.11847970'
 	        ],
@@ -635,7 +635,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' =>103 ,
 		        'province_id' => 10,
 		        'name' => 'سرایان',
-		        'name_en' => 'sarabian',
+		        'en_name' => 'sarabian',
 		        'latitude' => '33.86027800',
 		        'longitude' => '58.52166700'
 	        ],
@@ -643,7 +643,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 104,
 		        'province_id' => 10,
 		        'name' => 'سر بیشه',
-		        'name_en' => 'sarbisheh',
+		        'en_name' => 'sarbisheh',
 		        'latitude' => '32.57555600',
 		        'longitude' => '59.79833300'
 	        ],
@@ -651,7 +651,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 105,
 		        'province_id' => 10,
 		        'name' => 'فردوس',
-		        'name_en' => 'ferdos',
+		        'en_name' => 'ferdos',
 		        'latitude' => '34.01861100',
 		        'longitude' => '58.17222200'
 	        ],
@@ -659,7 +659,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 106,
 		        'province_id' => 10,
 		        'name' => 'قائن',
-		        'name_en' => 'ghaen',
+		        'en_name' => 'ghaen',
 		        'latitude' => '33.72666700',
 		        'longitude' => '59.18444400'
 	        ],
@@ -667,7 +667,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 107,
 		        'province_id' => 10,
 		        'name' => 'نهبندان',
-		        'name_en' => 'nahbandan',
+		        'en_name' => 'nahbandan',
 		        'latitude' => '31.54194400',
 		        'longitude' => '60.03638900'
 	        ],
@@ -675,7 +675,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 108,
 		        'province_id' => 11,
 		        'name' => 'برد سکن',
-		        'name_en' => 'bordscan',
+		        'en_name' => 'bordscan',
 		        'latitude' => '35.26083300',
 		        'longitude' => '57.96972200'
 	        ],
@@ -683,7 +683,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 109,
 		        'province_id' => 11,
 		        'name' => 'بجستان',
-		        'name_en' => 'bejestan',
+		        'en_name' => 'bejestan',
 		        'latitude' => '34.51638900',
 		        'longitude' => '58.18444400'
 	        ],
@@ -691,7 +691,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 110,
 		        'province_id' => 11,
 		        'name' => 'تایباد',
-		        'name_en' => 'taybad',
+		        'en_name' => 'taybad',
 		        'latitude' => '34.74000000',
 		        'longitude' => '60.77555600'
 	        ],
@@ -699,7 +699,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 111,
 		        'province_id' => 11,
 		        'name' => 'تحت جلگه',
-		        'name_en' => 'tahgholgeh',
+		        'en_name' => 'tahgholgeh',
 		        'latitude' => 'null',
 		        'longitude' => 'null'
 	        ],
@@ -707,7 +707,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 112,
 		        'province_id' => 11,
 		        'name' => 'تربت جام',
-		        'name_en' => 'torbatjam',
+		        'en_name' => 'torbatjam',
 		        'latitude' => '35.24388900',
 		        'longitude' => '60.62250000'
 	        ],
@@ -715,7 +715,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 113,
 		        'province_id' => 11,
 		        'name' => 'تربت حیدریه',
-		        'name_en' => 'torbateheidarieh',
+		        'en_name' => 'torbateheidarieh',
 		        'latitude' => '35.27388900',
 		        'longitude' => '59.21944400'
 	        ],
@@ -723,7 +723,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 114,
 		        'province_id' => 11,
 		        'name' => 'چناران',
-		        'name_en' => 'chenaran',
+		        'en_name' => 'chenaran',
 		        'latitude' => '36.64555600',
 		        'longitude' => '59.12111100'
 	        ],
@@ -731,7 +731,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 115,
 		        'province_id' => 11,
 		        'name' => 'جغتای',
-		        'name_en' => 'jaghtari',
+		        'en_name' => 'jaghtari',
 		        'latitude' => '36.57888530',
 		        'longitude' => '57.25121500'
 	        ],
@@ -739,7 +739,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 116,
 		        'province_id' => 11,
 		        'name' => 'جوین',
-		        'name_en' => 'jooyn',
+		        'en_name' => 'jooyn',
 		        'latitude' => '36.63622380',
 		        'longitude' => '57.50799120'
 	        ],
@@ -747,7 +747,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 117,
 		        'province_id' => 11,
 		        'name' => 'خلیل آباد',
-		        'name_en' => 'khalilabad',
+		        'en_name' => 'khalilabad',
 		        'latitude' => '35.25583300',
 		        'longitude' => '58.28638900'
 	        ],
@@ -755,7 +755,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 118,
 		        'province_id' => 11,
 		        'name' => 'خواف',
-		        'name_en' => 'khoaf',
+		        'en_name' => 'khoaf',
 		        'latitude' => '34.57638900',
 		        'longitude' => '60.14083300'
 	        ],
@@ -763,7 +763,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 119,
 		        'province_id' => 11,
 		        'name' => 'درگز',
-		        'name_en' => 'dargez',
+		        'en_name' => 'dargez',
 		        'latitude' => '37.44444400',
 		        'longitude' => '59.10805600'
 	        ],
@@ -771,7 +771,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 120,
 		        'province_id' => 11,
 		        'name' => 'رشتخوار',
-		        'name_en' => 'reshtkhar',
+		        'en_name' => 'reshtkhar',
 		        'latitude' => '34.97472200',
 		        'longitude' => '59.62361100'
 	        ],
@@ -779,7 +779,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 121,
 		        'province_id' => 11,
 		        'name' => 'زاوه',
-		        'name_en' => 'zaveh',
+		        'en_name' => 'zaveh',
 		        'latitude' => '35.27473220',
 		        'longitude' => '59.46777270'
 	        ],
@@ -787,7 +787,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 122,
 		        'province_id' => 11,
 		        'name' => 'سبزوار',
-		        'name_en' => 'sabzevar',
+		        'en_name' => 'sabzevar',
 		        'latitude' => '36.21518230',
 		        'longitude' => '57.66782280'
 	        ],
@@ -795,7 +795,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 123,
 		        'province_id' => 11,
 		        'name' => 'سرخس',
-		        'name_en' => 'sarakhs',
+		        'en_name' => 'sarakhs',
 		        'latitude' => '36.54500000',
 		        'longitude' => '61.15777800'
 	        ],
@@ -803,7 +803,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 124,
 		        'province_id' => 11,
 		        'name' => 'فریمان',
-		        'name_en' => 'feriman',
+		        'en_name' => 'feriman',
 		        'latitude' => '35.70694400',
 		        'longitude' => '59.85000000'
 	        ],
@@ -811,7 +811,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 125,
 		        'province_id' => 11,
 		        'name' => 'قوچان',
-		        'name_en' => 'ghochan',
+		        'en_name' => 'ghochan',
 		        'latitude' => '37.10611100',
 		        'longitude' => '58.50944400'
 	        ],
@@ -819,7 +819,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 126,
 		        'province_id' => 11,
 		        'name' => 'طرقبه شاندیز',
-		        'name_en' => 'taghobehshandiz',
+		        'en_name' => 'taghobehshandiz',
 		        'latitude' => '36.35488410',
 		        'longitude' => '59.43839550'
 	        ],
@@ -827,7 +827,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 127,
 		        'province_id' => 11,
 		        'name' => 'کاشمر',
-		        'name_en' => 'kashmer',
+		        'en_name' => 'kashmer',
 		        'latitude' => '35.23833300',
 		        'longitude' => '58.46555600'
 	        ],
@@ -835,7 +835,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 128,
 		        'province_id' => 11,
 		        'name' => 'کلات',
-		        'name_en' => 'kalat',
+		        'en_name' => 'kalat',
 		        'latitude' => '34.19833300',
 		        'longitude' => '58.54444400'
 	        ],
@@ -843,7 +843,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 129,
 		        'province_id' => 11,
 		        'name' => 'گناباد',
-		        'name_en' => 'gonabad',
+		        'en_name' => 'gonabad',
 		        'latitude' => '34.35277800',
 		        'longitude' => '58.68361100'
 	        ],
@@ -851,7 +851,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 130,
 		        'province_id' => 11,
 		        'name' => 'مشهد',
-		        'name_en' => 'mashhad',
+		        'en_name' => 'mashhad',
 		        'latitude' => '36.26046230',
 		        'longitude' => '59.61675490'
 	        ],
@@ -859,7 +859,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 131,
 		        'province_id' => 11,
 		        'name' => 'مه ولات',
-		        'name_en' => 'mahvelat',
+		        'en_name' => 'mahvelat',
 		        'latitude' => '35.02108290',
 		        'longitude' => '58.78181160'
 	        ],
@@ -867,7 +867,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 132,
 		        'province_id' => 11,
 		        'name' => 'نیشابور',
-		        'name_en' => 'nishabor',
+		        'en_name' => 'nishabor',
 		        'latitude' => '36.21408650',
 		        'longitude' => '58.79609150'
 	        ],
@@ -875,7 +875,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 133,
 		        'province_id' => 12,
 		        'name' => 'اسفراین',
-		        'name_en' => 'esrafin',
+		        'en_name' => 'esrafin',
 		        'latitude' => '37.07638900',
 		        'longitude' => '57.51000000'
 	        ],
@@ -883,7 +883,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 134,
 		        'province_id' => 12,
 		        'name' => 'بجنورد',
-		        'name_en' => 'bojnord',
+		        'en_name' => 'bojnord',
 		        'latitude' => '37.47500000',
 		        'longitude' => '57.33333300'
 	        ],
@@ -891,7 +891,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 135,
 		        'province_id' => 12,
 		        'name' => 'جاجرم',
-		        'name_en' => 'jajrom',
+		        'en_name' => 'jajrom',
 		        'latitude' => '36.95000000',
 		        'longitude' => '56.38000000'
 	        ],
@@ -899,7 +899,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 136,
 		        'province_id' => 12,
 		        'name' => 'شیروان',
-		        'name_en' => 'shiravan',
+		        'en_name' => 'shiravan',
 		        'latitude' => '37.40923570',
 		        'longitude' => '57.92761840'
 	        ],
@@ -907,7 +907,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 137,
 		        'province_id' => 12,
 		        'name' => 'فاروج',
-		        'name_en' => 'faroj',
+		        'en_name' => 'faroj',
 		        'latitude' => '37.23111100',
 		        'longitude' => '58.21888900'
 	        ],
@@ -915,7 +915,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 138,
 		        'province_id' => 12,
 		        'name' => 'مانه و سملقان',
-		        'name_en' => 'manehvasaloghan',
+		        'en_name' => 'manehvasaloghan',
 		        'latitude' => '37.66206140',
 		        'longitude' => '56.74120700'
 	        ],
@@ -923,7 +923,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 139,
 		        'province_id' => 13,
 		        'name' => 'آبادان',
-		        'name_en' => 'abadan',
+		        'en_name' => 'abadan',
 		        'latitude' => '30.34729600',
 		        'longitude' => '48.29340040'
 	        ],
@@ -931,7 +931,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 140,
 		        'province_id' => 13,
 		        'name' => 'امیدیه',
-		        'name_en' => 'omideh',
+		        'en_name' => 'omideh',
 		        'latitude' => '30.74583300',
 		        'longitude' => '49.70861100'
 	        ],
@@ -939,7 +939,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 141,
 		        'province_id' => 13,
 		        'name' => 'اندیمشک',
-		        'name_en' => 'andimeshk',
+		        'en_name' => 'andimeshk',
 		        'latitude' => '32.46000000',
 		        'longitude' => '48.35916700'
 	        ],
@@ -947,7 +947,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 142,
 		        'province_id' => 13,
 		        'name' => 'اهواز',
-		        'name_en' => 'ahvaz',
+		        'en_name' => 'ahvaz',
 		        'latitude' => '31.31832720',
 		        'longitude' => '48.67061870'
 	        ],
@@ -955,7 +955,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 143,
 		        'province_id' => 13,
 		        'name' => 'ایذه',
-		        'name_en' => 'aizeh',
+		        'en_name' => 'aizeh',
 		        'latitude' => '31.83416700',
 		        'longitude' => '49.86722200'
 	        ],
@@ -963,7 +963,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 144,
 		        'province_id' => 13,
 		        'name' => 'باغ ملک',
-		        'name_en' => 'baghmalek',
+		        'en_name' => 'baghmalek',
 		        'latitude' => '32.39472060',
 		        'longitude' => '51.59653280'
 	        ],
@@ -971,7 +971,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 145,
 		        'province_id' => 13,
 		        'name' => 'بندرماهشهر',
-		        'name_en' => 'bandarmahshar',
+		        'en_name' => 'bandarmahshar',
 		        'latitude' => '30.55888900',
 		        'longitude' => '49.19805600'
 	        ],
@@ -979,7 +979,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 146,
 		        'province_id' => 13,
 		        'name' => 'بهبهان',
-		        'name_en' => 'behbahan',
+		        'en_name' => 'behbahan',
 		        'latitude' => '30.59583300',
 		        'longitude' => '50.24166700'
 	        ],
@@ -987,7 +987,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 147,
 		        'province_id' => 13,
 		        'name' => 'خرمشهر',
-		        'name_en' => 'khoramshar',
+		        'en_name' => 'khoramshar',
 		        'latitude' => '30.42562190',
 		        'longitude' => '48.18911850'
 	        ],
@@ -995,7 +995,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 148,
 		        'province_id' => 13,
 		        'name' => 'دزفول',
-		        'name_en' => 'dezfol',
+		        'en_name' => 'dezfol',
 		        'latitude' => '32.38307770',
 		        'longitude' => '48.42358410'
 	        ],
@@ -1003,7 +1003,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 149,
 		        'province_id' => 13,
 		        'name' => 'دشت آزادگان',
-		        'name_en' => 'dashtazadeghan',
+		        'en_name' => 'dashtazadeghan',
 		        'latitude' => '31.55805600',
 		        'longitude' => '48.18083300'
 	        ],
@@ -1011,7 +1011,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 150,
 		        'province_id' => 13,
 		        'name' => 'رامشیر',
-		        'name_en' => 'ramshahr',
+		        'en_name' => 'ramshahr',
 		        'latitude' => '30.89565210',
 		        'longitude' => '49.40947010'
 	        ],
@@ -1019,7 +1019,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 151,
 		        'province_id' => 13,
 		        'name' => 'رامهرمز',
-		        'name_en' => 'ramhormoz',
+		        'en_name' => 'ramhormoz',
 		        'latitude' => '31.28000000',
 		        'longitude' => '49.60361100'
 	        ],
@@ -1027,7 +1027,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 152,
 		        'province_id' => 13,
 		        'name' => 'شادگان',
-		        'name_en' => 'shadegan',
+		        'en_name' => 'shadegan',
 		        'latitude' => '30.64972200',
 		        'longitude' => '48.66472200'
 	        ],
@@ -1035,7 +1035,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 153,
 		        'province_id' => 13,
 		        'name' => 'شوش',
-		        'name_en' => 'shosh',
+		        'en_name' => 'shosh',
 		        'latitude' => '32.19416700',
 		        'longitude' => '48.24361100'
 	        ],
@@ -1043,7 +1043,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 154,
 		        'province_id' => 13,
 		        'name' => 'شوشتر',
-		        'name_en' => 'shoshtar',
+		        'en_name' => 'shoshtar',
 		        'latitude' => '32.04555600',
 		        'longitude' => '48.85666700'
 	        ],
@@ -1051,7 +1051,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 155,
 		        'province_id' => 13,
 		        'name' => 'گتوند',
-		        'name_en' => 'gatvand',
+		        'en_name' => 'gatvand',
 		        'latitude' => '32.25138900',
 		        'longitude' => '48.81611100'
 	        ],
@@ -1059,7 +1059,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 156,
 		        'province_id' => 13,
 		        'name' => 'لالی',
-		        'name_en' => 'lali',
+		        'en_name' => 'lali',
 		        'latitude' => '32.32888900',
 		        'longitude' => '49.09361100'
 	        ],
@@ -1067,7 +1067,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 157,
 		        'province_id' => 13,
 		        'name' => 'مسجد سلیمان',
-		        'name_en' => 'masjedsoliman',
+		        'en_name' => 'masjedsoliman',
 		        'latitude' => '31.93638900',
 		        'longitude' => '49.30388900'
 	        ],
@@ -1075,7 +1075,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 158,
 		        'province_id' => 13,
 		        'name' => 'هندیجان',
-		        'name_en' => 'handijan',
+		        'en_name' => 'handijan',
 		        'latitude' => '30.23638900',
 		        'longitude' => '49.71194400'
 	        ],
@@ -1083,7 +1083,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 159,
 		        'province_id' => 14,
 		        'name' => 'ابهر',
-		        'name_en' => 'abhar',
+		        'en_name' => 'abhar',
 		        'latitude' => '36.14666700',
 		        'longitude' => '49.21805600'
 	        ],
@@ -1091,7 +1091,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 160,
 		        'province_id' => 14,
 		        'name' => 'ایجرود',
-		        'name_en' => 'eijrod',
+		        'en_name' => 'eijrod',
 		        'latitude' => '36.41609280',
 		        'longitude' => '48.24692490'
 	        ],
@@ -1099,7 +1099,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 161,
 		        'province_id' => 14,
 		        'name' => 'خدابنده',
-		        'name_en' => 'khodabandeh',
+		        'en_name' => 'khodabandeh',
 		        'latitude' => '36.11472200',
 		        'longitude' => '48.59111100'
 	        ],
@@ -1107,7 +1107,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 162,
 		        'province_id' => 14,
 		        'name' => 'خرمدره',
-		        'name_en' => 'khoramdareh',
+		        'en_name' => 'khoramdareh',
 		        'latitude' => '36.20305600',
 		        'longitude' => '49.18694400'
 	        ],
@@ -1115,7 +1115,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 163,
 		        'province_id' => 14,
 		        'name' => 'زنجان',
-		        'name_en' => 'zanjan',
+		        'en_name' => 'zanjan',
 		        'latitude' => '36.50181850',
 		        'longitude' => '48.39881860'
 	        ],
@@ -1123,7 +1123,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 164,
 		        'province_id' => 14,
 		        'name' => 'طارم',
-		        'name_en' => 'tarom',
+		        'en_name' => 'tarom',
 		        'latitude' => '28.18042870',
 		        'longitude' => '55.74533670'
 	        ],
@@ -1131,7 +1131,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 165,
 		        'province_id' => 14,
 		        'name' => 'ماه نشان',
-		        'name_en' => 'mahneshan',
+		        'en_name' => 'mahneshan',
 		        'latitude' => '36.74444400',
 		        'longitude' => '47.67250000'
 	        ],
@@ -1139,7 +1139,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 166,
 		        'province_id' => 15,
 		        'name' => 'دامغان',
-		        'name_en' => 'damghan',
+		        'en_name' => 'damghan',
 		        'latitude' => '36.16833300',
 		        'longitude' => '54.34805600'
 	        ],
@@ -1147,7 +1147,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 167,
 		        'province_id' => 15,
 		        'name' => 'سمنان',
-		        'name_en' => 'semnan',
+		        'en_name' => 'semnan',
 		        'latitude' => '35.22555850',
 		        'longitude' => '54.43421380'
 	        ],
@@ -1155,7 +1155,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 168,
 		        'province_id' => 15,
 		        'name' => 'شاهرود',
-		        'name_en' => 'shahrod',
+		        'en_name' => 'shahrod',
 		        'latitude' => '36.41805600',
 		        'longitude' => '54.97638900'
 	        ],
@@ -1163,7 +1163,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 169,
 		        'province_id' => 15,
 		        'name' => 'گرمسار',
-		        'name_en' => 'ghamsar',
+		        'en_name' => 'ghamsar',
 		        'latitude' => '35.21833300',
 		        'longitude' => '52.34083300'
 	        ],
@@ -1171,7 +1171,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 170,
 		        'province_id' => 15,
 		        'name' => 'مهدی شهر',
-		        'name_en' => 'mehdishar',
+		        'en_name' => 'mehdishar',
 		        'latitude' => '35.70000000',
 		        'longitude' => '53.35000000'
 	        ],
@@ -1179,7 +1179,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 171,
 		        'province_id' => 16,
 		        'name' => 'ایرانشهر',
-		        'name_en' => 'iranshar',
+		        'en_name' => 'iranshar',
 		        'latitude' => '27.20250000',
 		        'longitude' => '60.68472200'
 	        ],
@@ -1187,7 +1187,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 172,
 		        'province_id' => 16,
 		        'name' => 'چابهار',
-		        'name_en' => 'chabahar',
+		        'en_name' => 'chabahar',
 		        'latitude' => '25.29194400',
 		        'longitude' => '60.64305600'
 	        ],
@@ -1195,7 +1195,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 173,
 		        'province_id' => 16,
 		        'name' => 'خاش',
-		        'name_en' => 'kash',
+		        'en_name' => 'kash',
 		        'latitude' => '28.21666700',
 		        'longitude' => '61.20000000'
 	        ],
@@ -1203,7 +1203,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 174,
 		        'province_id' => 16,
 		        'name' => 'دلگان',
-		        'name_en' => 'delgan',
+		        'en_name' => 'delgan',
 		        'latitude' => '27.60773570',
 		        'longitude' => '59.47209040'
 	        ],
@@ -1211,7 +1211,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 175,
 		        'province_id' => 16,
 		        'name' => 'زابل',
-		        'name_en' => 'zabol',
+		        'en_name' => 'zabol',
 		        'latitude' => '31.02861100',
 		        'longitude' => '61.50111100'
 	        ],
@@ -1219,7 +1219,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 176,
 		        'province_id' => 16,
 		        'name' => 'زاهدان',
-		        'name_en' => 'zahedan',
+		        'en_name' => 'zahedan',
 		        'latitude' => '29.49638900',
 		        'longitude' => '60.86277800'
 	        ],
@@ -1227,7 +1227,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 177,
 		        'province_id' => 16,
 		        'name' => 'زهک',
-		        'name_en' => 'zahak',
+		        'en_name' => 'zahak',
 		        'latitude' => '30.89388900',
 		        'longitude' => '61.68027800'
 	        ],
@@ -1235,7 +1235,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 178,
 		        'province_id' => 16,
 		        'name' => 'سراوان',
-		        'name_en' => 'saravan',
+		        'en_name' => 'saravan',
 		        'latitude' => '27.37083300',
 		        'longitude' => '62.33416700'
 	        ],
@@ -1243,7 +1243,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 179,
 		        'province_id' => 16,
 		        'name' => 'سرباز',
-		        'name_en' => 'sarbaz',
+		        'en_name' => 'sarbaz',
 		        'latitude' => '26.63083300',
 		        'longitude' => '61.25638900'
 	        ],
@@ -1251,7 +1251,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 180,
 		        'province_id' => 16,
 		        'name' => 'کنارک',
-		        'name_en' => 'kenarack',
+		        'en_name' => 'kenarack',
 		        'latitude' => '25.36027800',
 		        'longitude' => '60.39944400'
 	        ],
@@ -1259,7 +1259,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 181,
 		        'province_id' => 16,
 		        'name' => 'نیکشهر',
-		        'name_en' => 'nickshar',
+		        'en_name' => 'nickshar',
 		        'latitude' => '26.41847190',
 		        'longitude' => '60.21107520'
 	        ],
@@ -1267,7 +1267,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 182,
 		        'province_id' => 17,
 		        'name' => 'آباده',
-		        'name_en' => 'abadeh',
+		        'en_name' => 'abadeh',
 		        'latitude' => '31.16083300',
 		        'longitude' => '52.65055600'
 	        ],
@@ -1275,7 +1275,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 183,
 		        'province_id' => 17,
 		        'name' => 'ارسنجان',
-		        'name_en' => 'arsangan',
+		        'en_name' => 'arsangan',
 		        'latitude' => '29.91250000',
 		        'longitude' => '53.30861100'
 	        ],
@@ -1283,7 +1283,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 184,
 		        'province_id' => 17,
 		        'name' => 'استهبان',
-		        'name_en' => 'sehban',
+		        'en_name' => 'sehban',
 		        'latitude' => '29.12666700',
 		        'longitude' => '54.04222200'
 	        ],
@@ -1291,14 +1291,14 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 185,
 		        'province_id' => 17,
 		        'name' => 'اقلید',
-		        'name_en' => 'eghlid',
+		        'en_name' => 'eghlid',
 		        'latitude' => '30.89888900',
 		        'longitude' => '52.68666700'
 	        ],  [
 		        'id' => 186,
 		        'province_id' => 17,
 		        'name' => 'بوانات',
-		        'name_en' => 'boanat',
+		        'en_name' => 'boanat',
 		        'latitude' => '30.48559070',
 		        'longitude' => '53.59333040'
 	        ],
@@ -1306,14 +1306,14 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 187,
 		        'province_id' => 17,
 		        'name' => 'پاسارگاد',
-		        'name_en' => 'pasargad',
+		        'en_name' => 'pasargad',
 		        'latitude' => '30.20330750',
 		        'longitude' => '53.17901000'
 	        ],  [
 		        'id' => 188,
 		        'province_id' => 17,
 		        'name' => 'جهرم',
-		        'name_en' => 'gahrom',
+		        'en_name' => 'gahrom',
 		        'latitude' => '28.50000000',
 		        'longitude' => '53.56055600'
 	        ],
@@ -1321,7 +1321,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 189,
 		        'province_id' => 17,
 		        'name' => 'خرم بید',
-		        'name_en' => 'khorambid',
+		        'en_name' => 'khorambid',
 		        'latitude' => '32.67083450',
 		        'longitude' => '51.64702790'
 	        ],
@@ -1329,7 +1329,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 190,
 		        'province_id' => 17,
 		        'name' => 'خنج',
-		        'name_en' => 'khenj',
+		        'en_name' => 'khenj',
 		        'latitude' => '27.89138900',
 		        'longitude' => '53.43444400'
 	        ],
@@ -1337,7 +1337,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 191,
 		        'province_id' => 17,
 		        'name' => 'داراب',
-		        'name_en' => 'darab',
+		        'en_name' => 'darab',
 		        'latitude' => '28.75194400',
 		        'longitude' => '54.54444400'
 	        ],
@@ -1345,7 +1345,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 192,
 		        'province_id' => 17,
 		        'name' => 'زرین دشت',
-		        'name_en' => 'zarindasht',
+		        'en_name' => 'zarindasht',
 		        'latitude' => '28.35450470',
 		        'longitude' => '54.41780060'
 	        ],
@@ -1353,7 +1353,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 193,
 		        'province_id' => 17,
 		        'name' => 'سپیدان',
-		        'name_en' => 'sipidan',
+		        'en_name' => 'sipidan',
 		        'latitude' => '30.24252820',
 		        'longitude' => '51.99241850'
 	        ],
@@ -1361,7 +1361,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 194,
 		        'province_id' => 17,
 		        'name' => 'شیراز',
-		        'name_en' => 'shiraz',
+		        'en_name' => 'shiraz',
 		        'latitude' => '29.59176770',
 		        'longitude' => '52.58369820'
 	        ],
@@ -1369,7 +1369,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 195,
 		        'province_id' => 17,
 		        'name' => 'فراشبند',
-		        'name_en' => 'farashbnad',
+		        'en_name' => 'farashbnad',
 		        'latitude' => '28.87138900',
 		        'longitude' => '52.09166700'
 	        ],
@@ -1377,7 +1377,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 196,
 		        'province_id' => 17,
 		        'name' => 'فسا',
-		        'name_en' => 'fasa',
+		        'en_name' => 'fasa',
 		        'latitude' => '28.93833300',
 		        'longitude' => '53.64833300'
 	        ],
@@ -1385,7 +1385,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 197,
 		        'province_id' => 17,
 		        'name' => 'فیروزآباد',
-		        'name_en' => 'firozabad',
+		        'en_name' => 'firozabad',
 		        'latitude' => '28.84388900',
 		        'longitude' => '52.57083300'
 	        ],
@@ -1393,7 +1393,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 198,
 		        'province_id' => 17,
 		        'name' => 'قیر و کارزین',
-		        'name_en' => 'ghir,karezin',
+		        'en_name' => 'ghir,karezin',
 		        'latitude' => '28.42998000',
 		        'longitude' => '53.09516000'
 	        ],
@@ -1401,7 +1401,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 199,
 		        'province_id' => 17,
 		        'name' => 'کازرون',
-		        'name_en' => 'kazeron',
+		        'en_name' => 'kazeron',
 		        'latitude' => '29.61944400',
 		        'longitude' => '51.65416700'
 	        ],
@@ -1409,7 +1409,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 200,
 		        'province_id' => 17,
 		        'name' => 'لارستان',
-		        'name_en' => 'larestan',
+		        'en_name' => 'larestan',
 		        'latitude' => '27.68111100',
 		        'longitude' => '54.34027800'
 	        ],
@@ -1417,7 +1417,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 201,
 		        'province_id' => 17,
 		        'name' => 'لامرد',
-		        'name_en' => 'lamord',
+		        'en_name' => 'lamord',
 		        'latitude' => '27.34237710',
 		        'longitude' => '53.18035580'
 	        ],
@@ -1425,7 +1425,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 202,
 		        'province_id' => 17,
 		        'name' => 'مرودشت',
-		        'name_en' => 'marvdasht',
+		        'en_name' => 'marvdasht',
 		        'latitude' => '29.87416700',
 		        'longitude' => '52.80250000'
 	        ],
@@ -1433,7 +1433,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 203,
 		        'province_id' => 17,
 		        'name' => 'ممسنی',
-		        'name_en' => 'momseni',
+		        'en_name' => 'momseni',
 		        'latitude' => '31.96003450',
 		        'longitude' => '50.51226520'
 	        ],
@@ -1441,7 +1441,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 204,
 		        'province_id' => 17,
 		        'name' => 'مهر',
-		        'name_en' => 'mehr',
+		        'en_name' => 'mehr',
 		        'latitude' => '27.55599310',
 		        'longitude' => '52.88472050'
 	        ],
@@ -1449,7 +1449,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 205,
 		        'province_id' => 17,
 		        'name' => 'نی ریز',
-		        'name_en' => 'neiriz',
+		        'en_name' => 'neiriz',
 		        'latitude' => '29.19888900',
 		        'longitude' => '54.32777800'
 	        ],
@@ -1457,14 +1457,14 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 206,
 		        'province_id' => 18,
 		        'name' => 'آبیک',
-		        'name_en' => 'abyek',
+		        'en_name' => 'abyek',
 		        'latitude' => '36.04000000',
 		        'longitude' => '50.53111100'
 	        ],[
 		        'id' => 207,
 		        'province_id' => 18,
 		        'name' => 'البرز',
-		        'name_en' => 'alborz',
+		        'en_name' => 'alborz',
 		        'latitude' => '35.99604670',
 		        'longitude' => '50.92892460'
 	        ],
@@ -1472,7 +1472,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 208,
 		        'province_id' => 18,
 		        'name' => 'بوئین زهرا',
-		        'name_en' => 'booenzahra',
+		        'en_name' => 'booenzahra',
 		        'latitude' => '35.76694400',
 		        'longitude' => '50.05777800'
 	        ],
@@ -1480,7 +1480,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 209,
 		        'province_id' => 18,
 		        'name' => 'تاکستان',
-		        'name_en' => 'takestan',
+		        'en_name' => 'takestan',
 		        'latitude' => '36.06972200',
 		        'longitude' => '49.69583300'
 	        ],
@@ -1488,7 +1488,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 210,
 		        'province_id' => 18,
 		        'name' => 'قزوین',
-		        'name_en' => 'ghzvin',
+		        'en_name' => 'ghzvin',
 		        'latitude' => '36.08813170',
 		        'longitude' => '49.85472660'
 	        ],
@@ -1496,7 +1496,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 211,
 		        'province_id' => 19,
 		        'name' => 'قم',
-		        'name_en' => 'ghom',
+		        'en_name' => 'ghom',
 		        'latitude' => '34.63994430',
 		        'longitude' => '50.87594190'
 	        ],
@@ -1504,7 +1504,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 212,
 		        'province_id' => 20,
 		        'name' => 'بانه',
-		        'name_en' => 'baneh',
+		        'en_name' => 'baneh',
 		        'latitude' => '35.99859990',
 		        'longitude' => '45.88234280'
 	        ],
@@ -1512,7 +1512,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 213,
 		        'province_id' => 20,
 		        'name' => 'بیجار',
-		        'name_en' => 'bijar',
+		        'en_name' => 'bijar',
 		        'latitude' => '32.73527800',
 		        'longitude' => '59.46666700'
 	        ],
@@ -1520,7 +1520,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 214,
 		        'province_id' => 20,
 		        'name' => 'دیواندره',
-		        'name_en' => 'divandareh',
+		        'en_name' => 'divandareh',
 		        'latitude' => '35.91388900',
 		        'longitude' => '47.02388900'
 	        ],
@@ -1528,7 +1528,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 215,
 		        'province_id' => 20,
 		        'name' => 'سروآباد',
-		        'name_en' => 'savabad',
+		        'en_name' => 'savabad',
 		        'latitude' => '35.31250000',
 		        'longitude' => '46.36694400'
 	        ],
@@ -1536,7 +1536,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 216,
 		        'province_id' => 20,
 		        'name' => 'سقز',
-		        'name_en' => 'saghez',
+		        'en_name' => 'saghez',
 		        'latitude' => '36.24638900',
 		        'longitude' => '46.26638900'
 	        ],
@@ -1544,7 +1544,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 217,
 		        'province_id' => 20,
 		        'name' => 'سنندج',
-		        'name_en' => 'sanndaj',
+		        'en_name' => 'sanndaj',
 		        'latitude' => '35.32187480',
 		        'longitude' => '46.98616470'
 	        ],
@@ -1552,7 +1552,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 218,
 		        'province_id' => 20,
 		        'name' => 'قروه',
-		        'name_en' => 'ghorveh',
+		        'en_name' => 'ghorveh',
 		        'latitude' => '35.16789340',
 		        'longitude' => '47.80382720'
 	        ],
@@ -1560,7 +1560,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 219,
 		        'province_id' => 20,
 		        'name' => 'کامیاران',
-		        'name_en' => 'kamyaran',
+		        'en_name' => 'kamyaran',
 		        'latitude' => '34.79555600',
 		        'longitude' => '46.93555600'
 	        ],
@@ -1568,7 +1568,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 220,
 		        'province_id' => 20,
 		        'name' => 'مریوان',
-		        'name_en' => 'marivan',
+		        'en_name' => 'marivan',
 		        'latitude' => '35.52694400',
 		        'longitude' => '46.17638900'
 	        ],
@@ -1576,7 +1576,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 221,
 		        'province_id' => 21,
 		        'name' => 'بافت',
-		        'name_en' => 'baft',
+		        'en_name' => 'baft',
 		        'latitude' => '29.23305600',
 		        'longitude' => '56.60222200'
 	        ],
@@ -1584,7 +1584,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 222,
 		        'province_id' => 21,
 		        'name' => 'بردسیر',
-		        'name_en' => 'bordsir',
+		        'en_name' => 'bordsir',
 		        'latitude' => '29.92750000',
 		        'longitude' => '56.57222200'
 	        ],
@@ -1592,7 +1592,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 223,
 		        'province_id' => 21,
 		        'name' => 'بم',
-		        'name_en' => 'bam',
+		        'en_name' => 'bam',
 		        'latitude' => '29.10611100',
 		        'longitude' => '58.35694400'
 	        ],
@@ -1600,7 +1600,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 224,
 		        'province_id' => 21,
 		        'name' => 'جیرفت',
-		        'name_en' => 'jiroft',
+		        'en_name' => 'jiroft',
 		        'latitude' => '28.67511240',
 		        'longitude' => '57.73715690'
 	        ],
@@ -1608,7 +1608,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 225,
 		        'province_id' => 21,
 		        'name' => 'راور',
-		        'name_en' => 'ravar',
+		        'en_name' => 'ravar',
 		        'latitude' => '31.26555600',
 		        'longitude' => '56.80555600'
 	        ],
@@ -1616,7 +1616,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 226,
 		        'province_id' => 21,
 		        'name' => 'رفسنجان',
-		        'name_en' => 'rafsanjan',
+		        'en_name' => 'rafsanjan',
 		        'latitude' => '30.40666700',
 		        'longitude' => '55.99388900'
 	        ],
@@ -1624,7 +1624,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 227,
 		        'province_id' => 21,
 		        'name' => 'رودبار جنوب',
-		        'name_en' => 'rodbarjonob',
+		        'en_name' => 'rodbarjonob',
 		        'latitude' => '36.82412890',
 		        'longitude' => '49.42372740'
 	        ],
@@ -1632,7 +1632,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 228,
 		        'province_id' => 21,
 		        'name' => 'زرند',
-		        'name_en' => 'zarand',
+		        'en_name' => 'zarand',
 		        'latitude' => '30.81277800',
 		        'longitude' => '56.56388900'
 	        ],
@@ -1640,7 +1640,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 229,
 		        'province_id' => 21,
 		        'name' => 'سیرجان',
-		        'name_en' => 'sirjan',
+		        'en_name' => 'sirjan',
 		        'latitude' => '29.45866760',
 		        'longitude' => '55.67140510'
 	        ],
@@ -1648,7 +1648,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 230,
 		        'province_id' => 21,
 		        'name' => 'شهر بابک',
-		        'name_en' => 'sharbabak',
+		        'en_name' => 'sharbabak',
 		        'latitude' => '30.11638900',
 		        'longitude' => '55.11861100'
 	        ],
@@ -1656,7 +1656,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 231,
 		        'province_id' => 21,
 		        'name' => 'عنبرآباد',
-		        'name_en' => 'anbarabad',
+		        'en_name' => 'anbarabad',
 		        'latitude' => '28.47833330',
 		        'longitude' => '57.84138890'
 	        ],
@@ -1664,7 +1664,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 232,
 		        'province_id' => 21,
 		        'name' => 'قلعه گنج',
-		        'name_en' => 'ghaleganj',
+		        'en_name' => 'ghaleganj',
 		        'latitude' => '27.52361100',
 		        'longitude' => '57.88111100'
 	        ],
@@ -1672,7 +1672,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 233,
 		        'province_id' => 21,
 		        'name' => 'کرمان',
-		        'name_en' => 'kerman',
+		        'en_name' => 'kerman',
 		        'latitude' => '29.48500890',
 		        'longitude' => '57.64390480'
 	        ],
@@ -1680,7 +1680,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 234,
 		        'province_id' => 21,
 		        'name' => 'کوهبنان',
-		        'name_en' => 'kohbanan',
+		        'en_name' => 'kohbanan',
 		        'latitude' => '31.41027800',
 		        'longitude' => '56.28250000'
 	        ],
@@ -1688,7 +1688,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 235,
 		        'province_id' => 21,
 		        'name' => 'کهنوج',
-		        'name_en' => 'kahnoj',
+		        'en_name' => 'kahnoj',
 		        'latitude' => '27.94676030',
 		        'longitude' => '57.70625720'
 	        ],
@@ -1696,7 +1696,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 236,
 		        'province_id' => 21,
 		        'name' => 'منوجان',
-		        'name_en' => 'manojan',
+		        'en_name' => 'manojan',
 		        'latitude' => '27.44756260',
 		        'longitude' => '57.50516160'
 	        ],
@@ -1704,7 +1704,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 237,
 		        'province_id' => 22,
 		        'name' => 'اسلام آباد غرب',
-		        'name_en' => 'eslamabdgharb',
+		        'en_name' => 'eslamabdgharb',
 		        'latitude' => '33.72938820',
 		        'longitude' => '73.09314610'
 	        ],
@@ -1712,7 +1712,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 238,
 		        'province_id' => 22,
 		        'name' => 'پاوه',
-		        'name_en' => 'paveh',
+		        'en_name' => 'paveh',
 		        'latitude' => '35.04333300',
 		        'longitude' => '46.35638900'
 	        ],
@@ -1720,7 +1720,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 239,
 		        'province_id' => 22,
 		        'name' => 'ثلاث باباجانی',
-		        'name_en' => 'salasbabajani',
+		        'en_name' => 'salasbabajani',
 		        'latitude' => '34.73583710',
 		        'longitude' => '46.14939690'
 	        ],
@@ -1728,7 +1728,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 240,
 		        'province_id' => 22,
 		        'name' => 'جوانرود',
-		        'name_en' => 'javanrod',
+		        'en_name' => 'javanrod',
 		        'latitude' => '34.80666700',
 		        'longitude' => '46.48861100'
 	        ],
@@ -1736,7 +1736,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 241,
 		        'province_id' => 22,
 		        'name' => 'دالاهو',
-		        'name_en' => 'dalaho',
+		        'en_name' => 'dalaho',
 		        'latitude' => '34.28416700',
 		        'longitude' => '46.24222200'
 	        ],
@@ -1744,7 +1744,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 242,
 		        'province_id' => 22,
 		        'name' => 'روانسر',
-		        'name_en' => 'ravansar',
+		        'en_name' => 'ravansar',
 		        'latitude' => '34.71208920',
 		        'longitude' => '46.65129980'
 	        ],
@@ -1752,7 +1752,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 243,
 		        'province_id' => 22,
 		        'name' => 'سرپل ذهاب',
-		        'name_en' => 'sarpolzahab',
+		        'en_name' => 'sarpolzahab',
 		        'latitude' => '34.46111100',
 		        'longitude' => '45.86277800'
 	        ],
@@ -1760,7 +1760,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 244,
 		        'province_id' => 22,
 		        'name' => 'سنقر',
-		        'name_en' => 'songhor',
+		        'en_name' => 'songhor',
 		        'latitude' => '34.78361100',
 		        'longitude' => '47.60027800'
 	        ],
@@ -1768,7 +1768,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 245,
 		        'province_id' => 22,
 		        'name' => 'صحنه',
-		        'name_en' => 'sahneh',
+		        'en_name' => 'sahneh',
 		        'latitude' => '34.48138900',
 		        'longitude' => '47.69083300'
 	        ],
@@ -1776,7 +1776,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 246,
 		        'province_id' => 22,
 		        'name' => 'قصر شیرین',
-		        'name_en' => 'ghasershirin',
+		        'en_name' => 'ghasershirin',
 		        'latitude' => '34.51590310',
 		        'longitude' => '45.57768590'
 	        ],
@@ -1784,7 +1784,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 247,
 		        'province_id' => 22,
 		        'name' => 'کرمانشاه',
-		        'name_en' => 'kermanshah',
+		        'en_name' => 'kermanshah',
 		        'latitude' => '34.45762330',
 		        'longitude' => '46.67053400'
 	        ],
@@ -1792,7 +1792,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 248,
 		        'province_id' => 22,
 		        'name' => 'کنگاور',
-		        'name_en' => 'kangavar',
+		        'en_name' => 'kangavar',
 		        'latitude' => '34.50416700',
 		        'longitude' => '47.96527800'
 	        ],
@@ -1800,7 +1800,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 249,
 		        'province_id' => 22,
 		        'name' => 'گیلان غرب',
-		        'name_en' => 'ghilangharb',
+		        'en_name' => 'ghilangharb',
 		        'latitude' => '34.14222200',
 		        'longitude' => '45.92027800'
 	        ],
@@ -1808,7 +1808,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 250,
 		        'province_id' => 22,
 		        'name' => 'هرسین',
-		        'name_en' => 'harsin',
+		        'en_name' => 'harsin',
 		        'latitude' => '34.27191490',
 		        'longitude' => '47.60461830'
 	        ],
@@ -1816,7 +1816,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 251,
 		        'province_id' => 23,
 		        'name' => 'بویر احمد',
-		        'name_en' => 'boyerahmad',
+		        'en_name' => 'boyerahmad',
 		        'latitude' => '30.72458600',
 		        'longitude' => '50.84563230'
 	        ],
@@ -1824,7 +1824,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 252,
 		        'province_id' => 23,
 		        'name' => 'بهمئی',
-		        'name_en' => 'bahmaye',
+		        'en_name' => 'bahmaye',
 		        'latitude' => 'null',
 		        'longitude' => 'null'
 	        ],
@@ -1832,7 +1832,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 253,
 		        'province_id' => 23,
 		        'name' => 'دنا',
-		        'name_en' => 'dena',
+		        'en_name' => 'dena',
 		        'latitude' => '30.95166660',
 		        'longitude' => '51.43750000'
 	        ],
@@ -1840,7 +1840,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 254,
 		        'province_id' => 23,
 		        'name' => 'کهگیلویه',
-		        'name_en' => 'kohghiloye',
+		        'en_name' => 'kohghiloye',
 		        'latitude' => 'null',
 		        'longitude' => 'null'
 	        ],
@@ -1848,7 +1848,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 255,
 		        'province_id' => 23,
 		        'name' => 'گچساران',
-		        'name_en' => 'gachsaran',
+		        'en_name' => 'gachsaran',
 		        'latitude' => '30.35000000',
 		        'longitude' => '50.80000000'
 	        ],
@@ -1856,7 +1856,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 256,
 		        'province_id' => 24,
 		        'name' => 'آزادشهر',
-		        'name_en' => 'azadshar',
+		        'en_name' => 'azadshar',
 		        'latitude' => '37.08694400',
 		        'longitude' => '55.17388900'
 	        ],
@@ -1864,7 +1864,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 257,
 		        'province_id' => 24,
 		        'name' => ' آق قلا',
-		        'name_en' => 'aghghela',
+		        'en_name' => 'aghghela',
 		        'latitude' => '37.01388900',
 		        'longitude' => '54.45500000'
 	        ],
@@ -1872,7 +1872,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 258,
 		        'province_id' => 24,
 		        'name' => 'بندر گز',
-		        'name_en' => 'bandarghaz',
+		        'en_name' => 'bandarghaz',
 		        'latitude' => '36.77496500',
 		        'longitude' => '53.94617490'
 	        ],
@@ -1880,7 +1880,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 259,
 		        'province_id' => 24,
 		        'name' => 'بندر ترکمن',
-		        'name_en' => 'bandartorkaman',
+		        'en_name' => 'bandartorkaman',
 		        'latitude' => '36.90166700',
 		        'longitude' => '54.07083300'
 	        ],
@@ -1888,7 +1888,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 260,
 		        'province_id' => 24,
 		        'name' => 'رامیان',
-		        'name_en' => 'ramyan',
+		        'en_name' => 'ramyan',
 		        'latitude' => '37.01611100',
 		        'longitude' => '55.14111100'
 	        ],
@@ -1896,7 +1896,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 261,
 		        'province_id' => 24,
 		        'name' => 'علی آباد',
-		        'name_en' => 'aliabad',
+		        'en_name' => 'aliabad',
 		        'latitude' => '36.30822600',
 		        'longitude' => '74.61954740'
 	        ],
@@ -1904,7 +1904,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 262,
 		        'province_id' => 24,
 		        'name' => 'کرد کوی',
-		        'name_en' => 'kordkoi',
+		        'en_name' => 'kordkoi',
 		        'latitude' => '36.79414260',
 		        'longitude' => '54.11027400'
 	        ],
@@ -1912,7 +1912,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 263,
 		        'province_id' => 24,
 		        'name' => 'کلاله',
-		        'name_en' => 'kalaleh',
+		        'en_name' => 'kalaleh',
 		        'latitude' => '37.38083300',
 		        'longitude' => '55.49166700'
 	        ],
@@ -1920,7 +1920,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 264,
 		        'province_id' => 24,
 		        'name' => 'گرگان',
-		        'name_en' => 'gorgan',
+		        'en_name' => 'gorgan',
 		        'latitude' => '36.84564270',
 		        'longitude' => '54.43933630'
 	        ],
@@ -1928,7 +1928,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 265,
 		        'province_id' => 24,
 		        'name' => 'گنبد کاووس',
-		        'name_en' => 'gonbadkavos',
+		        'en_name' => 'gonbadkavos',
 		        'latitude' => '37.25000000',
 		        'longitude' => '55.16722200'
 	        ],
@@ -1936,7 +1936,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 266,
 		        'province_id' => 24,
 		        'name' => 'مینو دشت',
-		        'name_en' => 'minodasht',
+		        'en_name' => 'minodasht',
 		        'latitude' => '37.22888900',
 		        'longitude' => '55.37472200'
 	        ],
@@ -1944,7 +1944,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 267,
 		        'province_id' => 25,
 		        'name' => 'آستارا',
-		        'name_en' => 'astara',
+		        'en_name' => 'astara',
 		        'latitude' => '38.42916700',
 		        'longitude' => '48.87194400'
 	        ],
@@ -1952,7 +1952,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 268,
 		        'province_id' => 25,
 		        'name' => 'آستانه اشرفیه',
-		        'name_en' => 'astanehashafieh',
+		        'en_name' => 'astanehashafieh',
 		        'latitude' => '37.25980220',
 		        'longitude' => '49.94366210'
 	        ],
@@ -1960,7 +1960,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 269,
 		        'province_id' => 25,
 		        'name' => 'املش',
-		        'name_en' => 'amlesh',
+		        'en_name' => 'amlesh',
 		        'latitude' => '37.09163340',
 		        'longitude' => '50.18693770'
 	        ],
@@ -1968,7 +1968,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 270,
 		        'province_id' => 25,
 		        'name' => 'بندر انزلی',
-		        'name_en' => 'bandaranzali',
+		        'en_name' => 'bandaranzali',
 		        'latitude' => '37.47244670',
 		        'longitude' => '49.45873120'
 	        ],
@@ -1976,7 +1976,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 271,
 		        'province_id' => 25,
 		        'name' => 'رشت',
-		        'name_en' => 'rasht',
+		        'en_name' => 'rasht',
 		        'latitude' => '37.28083300',
 		        'longitude' => '49.58305600'
 	        ],
@@ -1984,7 +1984,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 272,
 		        'province_id' => 25,
 		        'name' => 'رضوانشهر',
-		        'name_en' => 'rezvanshahr',
+		        'en_name' => 'rezvanshahr',
 		        'latitude' => '37.55067500',
 		        'longitude' => '49.14098010'
 	        ],
@@ -1992,7 +1992,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 273,
 		        'province_id' => 25,
 		        'name' => 'رودبار',
-		        'name_en' => 'rodbar',
+		        'en_name' => 'rodbar',
 		        'latitude' => '36.82412890',
 		        'longitude' => '49.42372740'
 	        ],
@@ -2000,7 +2000,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 274,
 		        'province_id' => 25,
 		        'name' => 'رودسر',
-		        'name_en' => 'rodsar',
+		        'en_name' => 'rodsar',
 		        'latitude' => '37.13784150',
 		        'longitude' => '50.28361990'
 	        ],
@@ -2008,7 +2008,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 275,
 		        'province_id' => 25,
 		        'name' => 'سیاهکل',
-		        'name_en' => 'sihkel',
+		        'en_name' => 'sihkel',
 		        'latitude' => '37.15277800',
 		        'longitude' => '49.87083300'
 	        ],
@@ -2016,7 +2016,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 276,
 		        'province_id' => 25,
 		        'name' => 'شفت',
-		        'name_en' => 'sheft',
+		        'en_name' => 'sheft',
 		        'latitude' => '39.63063100',
 		        'longitude' => '78.92954200'
 	        ],
@@ -2024,7 +2024,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 277,
 		        'province_id' => 25,
 		        'name' => 'صومعه سرا',
-		        'name_en' => 'somehesara',
+		        'en_name' => 'somehesara',
 		        'latitude' => '37.31166700',
 		        'longitude' => '49.32194400'
 	        ],
@@ -2032,7 +2032,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 278,
 		        'province_id' => 25,
 		        'name' => 'طوالش',
-		        'name_en' => 'tavalesh',
+		        'en_name' => 'tavalesh',
 		        'latitude' => '37.00000000',
 		        'longitude' => '48.42222220'
 	        ],
@@ -2040,7 +2040,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 279,
 		        'province_id' => 25,
 		        'name' => 'فومن',
-		        'name_en' => 'foman',
+		        'en_name' => 'foman',
 		        'latitude' => '37.22388900',
 		        'longitude' => '49.31250000'
 	        ],
@@ -2048,7 +2048,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 280,
 		        'province_id' => 25,
 		        'name' => 'لاهیجان',
-		        'name_en' => 'lahijan',
+		        'en_name' => 'lahijan',
 		        'latitude' => '37.20722200',
 		        'longitude' => '50.00388900'
 	        ],
@@ -2056,7 +2056,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 281,
 		        'province_id' => 25,
 		        'name' => 'لنگرود',
-		        'name_en' => 'langerod',
+		        'en_name' => 'langerod',
 		        'latitude' => '37.19694400',
 		        'longitude' => '50.15361100'
 	        ],
@@ -2064,7 +2064,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 282,
 		        'province_id' => 25,
 		        'name' => 'ماسال',
-		        'name_en' => 'masal',
+		        'en_name' => 'masal',
 		        'latitude' => '37.36211850',
 		        'longitude' => '49.13147690'
 	        ],
@@ -2072,7 +2072,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 283,
 		        'province_id' => 26,
 		        'name' => 'ازنا',
-		        'name_en' => 'azana',
+		        'en_name' => 'azana',
 		        'latitude' => '33.45583300',
 		        'longitude' => '49.45555600'
 	        ],
@@ -2080,7 +2080,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 284,
 		        'province_id' => 26,
 		        'name' => 'الیگودرز',
-		        'name_en' => 'aligodarz',
+		        'en_name' => 'aligodarz',
 		        'latitude' => '33.40055600',
 		        'longitude' => '49.69500000'
 	        ],
@@ -2088,7 +2088,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 285,
 		        'province_id' => 26,
 		        'name' => 'بروجرد',
-		        'name_en' => 'brojerd',
+		        'en_name' => 'brojerd',
 		        'latitude' => '33.89419930',
 		        'longitude' => '48.76703300'
 	        ],
@@ -2096,7 +2096,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 286,
 		        'province_id' => 26,
 		        'name' => 'پلدختر',
-		        'name_en' => 'poldokhtar',
+		        'en_name' => 'poldokhtar',
 		        'latitude' => '33.15361100',
 		        'longitude' => '47.71361100'
 	        ],
@@ -2104,7 +2104,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 287,
 		        'province_id' => 26,
 		        'name' => 'خرم آباد',
-		        'name_en' => 'khoramabad',
+		        'en_name' => 'khoramabad',
 		        'latitude' => '33.48777800',
 		        'longitude' => '48.35583300'
 	        ],
@@ -2112,7 +2112,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 288,
 		        'province_id' => 26,
 		        'name' => 'دورود',
-		        'name_en' => 'dorood',
+		        'en_name' => 'dorood',
 		        'latitude' => '33.49550280',
 		        'longitude' => '49.06317430'
 	        ],
@@ -2120,7 +2120,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 377,
 		        'province_id' => 26,
 		        'name' => 'دلفان',
-		        'name_en' => 'delghan',
+		        'en_name' => 'delghan',
 		        'latitude' => '33.50340140',
 		        'longitude' => '48.35758360'
 	        ],
@@ -2128,7 +2128,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 378,
 		        'province_id' => 26,
 		        'name' => 'سلسله',
-		        'name_en' => 'selseleh',
+		        'en_name' => 'selseleh',
 		        'latitude' => '32.04577600',
 		        'longitude' => '34.75163900'
 	        ],
@@ -2136,7 +2136,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 379,
 		        'province_id' => 27,
 		        'name' => 'کوهدشت',
-		        'name_en' => 'kohdasht',
+		        'en_name' => 'kohdasht',
 		        'latitude' => '33.53500000',
 		        'longitude' => '47.60611100'
 	        ],
@@ -2144,7 +2144,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 380,
 		        'province_id' => 26,
 		        'name' => 'الشتر',
-		        'name_en' => 'alshtar',
+		        'en_name' => 'alshtar',
 		        'latitude' => '33.86398880',
 		        'longitude' => '48.26423870'
 	        ],
@@ -2152,7 +2152,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 381,
 		        'province_id' => 26,
 		        'name' => 'نورآباد',
-		        'name_en' => 'norabad',
+		        'en_name' => 'norabad',
 		        'latitude' => '30.11416700',
 		        'longitude' => '51.52166700'
 	        ],
@@ -2160,7 +2160,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 382,
 		        'province_id' => 27,
 		        'name' => 'آمل',
-		        'name_en' => 'amol',
+		        'en_name' => 'amol',
 		        'latitude' => '36.46972200',
 		        'longitude' => '52.35083300'
 	        ],
@@ -2168,7 +2168,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 383,
 		        'province_id' => 27,
 		        'name' => 'بابل',
-		        'name_en' => 'babol',
+		        'en_name' => 'babol',
 		        'latitude' => '32.46819100',
 		        'longitude' => '44.55019350'
 	        ],
@@ -2176,7 +2176,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 384,
 		        'province_id' => 27,
 		        'name' => 'بابلسر',
-		        'name_en' => 'baboolsar',
+		        'en_name' => 'baboolsar',
 		        'latitude' => '36.70250000',
 		        'longitude' => '52.65750000'
 	        ],
@@ -2184,7 +2184,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 385,
 		        'province_id' => 27,
 		        'name' => 'بهشهر',
-		        'name_en' => 'behsah',
+		        'en_name' => 'behsah',
 		        'latitude' => '36.69222200',
 		        'longitude' => '53.55250000'
 	        ],
@@ -2192,7 +2192,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 386,
 		        'province_id' => 27,
 		        'name' => 'تنکابن',
-		        'name_en' => 'tonokabon',
+		        'en_name' => 'tonokabon',
 		        'latitude' => '36.81638900',
 		        'longitude' => '50.87388900'
 	        ],
@@ -2200,7 +2200,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 387,
 		        'province_id' => 27,
 		        'name' => 'جویبار',
-		        'name_en' => 'jooybar',
+		        'en_name' => 'jooybar',
 		        'latitude' => '36.64111100',
 		        'longitude' => '52.91250000'
 	        ],
@@ -2208,7 +2208,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 388,
 		        'province_id' => 27,
 		        'name' => 'چالوس',
-		        'name_en' => 'chalos',
+		        'en_name' => 'chalos',
 		        'latitude' => '36.64591740',
 		        'longitude' => '51.40697900'
 	        ],
@@ -2216,7 +2216,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 389,
 		        'province_id' => 27,
 		        'name' => 'رامسر',
-		        'name_en' => 'ramsar',
+		        'en_name' => 'ramsar',
 		        'latitude' => '36.90305600',
 		        'longitude' => '50.65833300'
 	        ],
@@ -2224,7 +2224,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 390,
 		        'province_id' => 27,
 		        'name' => 'ساری',
-		        'name_en' => 'sari',
+		        'en_name' => 'sari',
 		        'latitude' => '36.56333300',
 		        'longitude' => '53.06000000'
 	        ],
@@ -2232,14 +2232,14 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 391,
 		        'province_id' => 27,
 		        'name' => 'سوادکوه',
-		        'name_en' => 'savadkoh',
+		        'en_name' => 'savadkoh',
 		        'latitude' => '36.30402550',
 		        'longitude' => '52.88524030'
 	        ],  [
 		        'id' => 392,
 		        'province_id' => 27,
 		        'name' => 'قائم شهر',
-		        'name_en' => 'ghaemshar',
+		        'en_name' => 'ghaemshar',
 		        'latitude' => '36.46305600',
 		        'longitude' => '52.86000000'
 	        ],
@@ -2247,7 +2247,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 393,
 		        'province_id' => 27,
 		        'name' => 'گلوگاه',
-		        'name_en' => 'galoghah',
+		        'en_name' => 'galoghah',
 		        'latitude' => '36.72722200',
 		        'longitude' => '53.80888900'
 	        ],
@@ -2255,7 +2255,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 394,
 		        'province_id' => 27,
 		        'name' => 'محمود آباد',
-		        'name_en' => 'mahmoodabad',
+		        'en_name' => 'mahmoodabad',
 		        'latitude' => '36.63194400',
 		        'longitude' => '52.26277800'
 	        ],
@@ -2263,14 +2263,14 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 395,
 		        'province_id' => 27,
 		        'name' => 'نکا',
-		        'name_en' => 'neka',
+		        'en_name' => 'neka',
 		        'latitude' => '36.65083300',
 		        'longitude' => '53.29916700'
 	        ],  [
 		        'id' => 396,
 		        'province_id' => 27,
 		        'name' => 'نور',
-		        'name_en' => 'noor',
+		        'en_name' => 'noor',
 		        'latitude' => '50.38512460',
 		        'longitude' => '3.26424360'
 	        ],
@@ -2278,7 +2278,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 397,
 		        'province_id' => 27,
 		        'name' => 'نوشهر',
-		        'name_en' => 'noshahr',
+		        'en_name' => 'noshahr',
 		        'latitude' => '36.64888900',
 		        'longitude' => '51.49611100'
 	        ],
@@ -2286,7 +2286,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 398,
 		        'province_id' => 27,
 		        'name' => 'فریدونکنار',
-		        'name_en' => 'fridoonkenar',
+		        'en_name' => 'fridoonkenar',
 		        'latitude' => '36.68638900',
 		        'longitude' => '52.52250000'
 	        ],
@@ -2294,7 +2294,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 399,
 		        'province_id' => 28,
 		        'name' => 'آشتیان',
-		        'name_en' => 'ahtyan',
+		        'en_name' => 'ahtyan',
 		        'latitude' => '34.52194400',
 		        'longitude' => '50.00611100'
 	        ],
@@ -2302,7 +2302,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 400,
 		        'province_id' => 28,
 		        'name' => 'اراک',
-		        'name_en' => 'arak',
+		        'en_name' => 'arak',
 		        'latitude' => '34.09166700',
 		        'longitude' => '49.68916700'
 	        ],
@@ -2310,7 +2310,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 401,
 		        'province_id' => 28,
 		        'name' => 'تفرش',
-		        'name_en' => 'tafarosh',
+		        'en_name' => 'tafarosh',
 		        'latitude' => '34.69194400',
 		        'longitude' => '50.01305600'
 	        ],
@@ -2318,7 +2318,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 402,
 		        'province_id' => 28,
 		        'name' => 'خمین',
-		        'name_en' => 'khomin',
+		        'en_name' => 'khomin',
 		        'latitude' => '33.64061480',
 		        'longitude' => '50.07711250'
 	        ],
@@ -2326,7 +2326,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 403,
 		        'province_id' => 28,
 		        'name' => 'دلیجان',
-		        'name_en' => 'delijan',
+		        'en_name' => 'delijan',
 		        'latitude' => '33.99055600',
 		        'longitude' => '50.68388900'
 	        ],
@@ -2334,7 +2334,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 404,
 		        'province_id' => 28,
 		        'name' => 'زرندیه',
-		        'name_en' => 'zarandieh',
+		        'en_name' => 'zarandieh',
 		        'latitude' => '35.30699620',
 		        'longitude' => '50.49117920'
 	        ],
@@ -2342,7 +2342,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 405,
 		        'province_id' => 28,
 		        'name' => 'ساوه',
-		        'name_en' => 'saveh',
+		        'en_name' => 'saveh',
 		        'latitude' => '35.02138900',
 		        'longitude' => '50.35666700'
 	        ],
@@ -2350,7 +2350,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 406,
 		        'province_id' => 28,
 		        'name' => 'شازند',
-		        'name_en' => 'shazland',
+		        'en_name' => 'shazland',
 		        'latitude' => '33.92750000',
 		        'longitude' => '49.41166700'
 	        ],
@@ -2358,7 +2358,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 407,
 		        'province_id' => 28,
 		        'name' => 'کمیجان',
-		        'name_en' => 'kimyajan',
+		        'en_name' => 'kimyajan',
 		        'latitude' => '34.71916700',
 		        'longitude' => '49.32666700'
 	        ],
@@ -2366,21 +2366,21 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 408,
 		        'province_id' => 28,
 		        'name' => 'محلات',
-		        'name_en' => 'mahalat',
+		        'en_name' => 'mahalat',
 		        'latitude' => '33.90857480',
 		        'longitude' => '50.45526160'
 	        ], [
 		        'id' => 409,
 		        'province_id' => 29,
 		        'name' => 'بندرعباس',
-		        'name_en' => 'bandarabas',
+		        'en_name' => 'bandarabas',
 		        'latitude' => '27.18322160',
 		        'longitude' => '56.26664550'
 	        ], [
 		        'id' => 410,
 		        'province_id' => 29,
 		        'name' => 'میناب',
-		        'name_en' => 'minab',
+		        'en_name' => 'minab',
 		        'latitude' => '27.14666700',
 		        'longitude' => '57.08000000'
 	        ],
@@ -2388,21 +2388,21 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 411,
 		        'province_id' => 29,
 		        'name' => 'بندر لنگه',
-		        'name_en' => 'bandarlengeh',
+		        'en_name' => 'bandarlengeh',
 		        'latitude' => '26.55805600',
 		        'longitude' => '54.88055600'
 	        ], [
 		        'id' => 412,
 		        'province_id' => 29,
 		        'name' => 'رودان-دهبارز',
-		        'name_en' => 'rodrandehbaz',
+		        'en_name' => 'rodrandehbaz',
 		        'latitude' => '27.44083300',
 		        'longitude' => '57.19250000'
 	        ], [
 		        'id' => 413,
 		        'province_id' => 29,
 		        'name' => 'جاسک',
-		        'name_en' => 'jask',
+		        'en_name' => 'jask',
 		        'latitude' => '25.64388900',
 		        'longitude' => '57.77444400'
 	        ],
@@ -2410,7 +2410,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 414,
 		        'province_id' => 29,
 		        'name' => 'قشم',
-		        'name_en' => 'gheshm',
+		        'en_name' => 'gheshm',
 		        'latitude' => '26.81186730',
 		        'longitude' => '55.89132070'
 	        ],
@@ -2418,7 +2418,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 415,
 		        'province_id' => 29,
 		        'name' => 'حاجی آباد',
-		        'name_en' => 'hajiabad',
+		        'en_name' => 'hajiabad',
 		        'latitude' => '28.30916700',
 		        'longitude' => '55.90166700'
 	        ],
@@ -2426,7 +2426,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 416,
 		        'province_id' => 29,
 		        'name' => 'ابوموسی',
-		        'name_en' => 'abomasa',
+		        'en_name' => 'abomasa',
 		        'latitude' => '25.87971060',
 		        'longitude' => '55.03280170'
 	        ],
@@ -2434,7 +2434,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 417,
 		        'province_id' => 29,
 		        'name' => 'بستک',
-		        'name_en' => 'bastak',
+		        'en_name' => 'bastak',
 		        'latitude' => '27.19916700',
 		        'longitude' => '54.36666700'
 	        ],
@@ -2442,7 +2442,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 418,
 		        'province_id' => 29,
 		        'name' => 'گاوبندی',
-		        'name_en' => 'gavbandi',
+		        'en_name' => 'gavbandi',
 		        'latitude' => '27.20833300',
 		        'longitude' => '53.03611100'
 	        ],
@@ -2450,7 +2450,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 419,
 		        'province_id' => 29,
 		        'name' => 'خمیر',
-		        'name_en' => 'khomir',
+		        'en_name' => 'khomir',
 		        'latitude' => '26.95222200',
 		        'longitude' => '55.58500000'
 	        ],
@@ -2458,7 +2458,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 420,
 		        'province_id' => 30,
 		        'name' => 'اسدآباد',
-		        'name_en' => 'asadabad',
+		        'en_name' => 'asadabad',
 		        'latitude' => '34.78250000',
 		        'longitude' => '48.11861100'
 	        ],
@@ -2466,7 +2466,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 421,
 		        'province_id' => 30,
 		        'name' => 'بهار',
-		        'name_en' => 'bahar',
+		        'en_name' => 'bahar',
 		        'latitude' => '34.90832520',
 		        'longitude' => '48.43927290'
 	        ],
@@ -2474,7 +2474,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 422,
 		        'province_id' => 30,
 		        'name' => 'تویسرکان',
-		        'name_en' => 'toyserkan',
+		        'en_name' => 'toyserkan',
 		        'latitude' => '34.54805600',
 		        'longitude' => '48.44694400'
 	        ],
@@ -2482,7 +2482,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 423,
 		        'province_id' => 30,
 		        'name' => 'رزن',
-		        'name_en' => 'razan',
+		        'en_name' => 'razan',
 		        'latitude' => '35.38666700',
 		        'longitude' => '49.03388900'
 	        ],
@@ -2490,7 +2490,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 424,
 		        'province_id' => 30,
 		        'name' => 'کبودر آهنگ',
-		        'name_en' => 'kabotarahang',
+		        'en_name' => 'kabotarahang',
 		        'latitude' => '35.20833300',
 		        'longitude' => '48.72388900'
 	        ],
@@ -2498,7 +2498,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 425,
 		        'province_id' => 30,
 		        'name' => 'ملایر',
-		        'name_en' => 'malayer',
+		        'en_name' => 'malayer',
 		        'latitude' => '34.29694400',
 		        'longitude' => '48.82361100'
 	        ],
@@ -2506,7 +2506,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 426,
 		        'province_id' => 30,
 		        'name' => 'نهاوند',
-		        'name_en' => 'nahavand',
+		        'en_name' => 'nahavand',
 		        'latitude' => '34.18861100',
 		        'longitude' => '48.37694400'
 	        ],
@@ -2514,7 +2514,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 427,
 		        'province_id' => 30,
 		        'name' => 'همدان',
-		        'name_en' => 'hamedan',
+		        'en_name' => 'hamedan',
 		        'latitude' => '34.76079990',
 		        'longitude' => '48.39881860'
 	        ],
@@ -2522,7 +2522,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 428,
 		        'province_id' => 31,
 		        'name' => 'ابرکوه',
-		        'name_en' => 'abarkoh',
+		        'en_name' => 'abarkoh',
 		        'latitude' => '31.13040360',
 		        'longitude' => '53.25037360'
 	        ],
@@ -2530,7 +2530,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 429,
 		        'province_id' => 31,
 		        'name' => 'اردکان',
-		        'name_en' => 'ardakan',
+		        'en_name' => 'ardakan',
 		        'latitude' => '32.31000000',
 		        'longitude' => '54.01750000'
 	        ],
@@ -2538,7 +2538,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 430,
 		        'province_id' => 31,
 		        'name' => 'بافق',
-		        'name_en' => 'bafgh',
+		        'en_name' => 'bafgh',
 		        'latitude' => '31.61277800',
 		        'longitude' => '55.41055600'
 	        ],
@@ -2546,7 +2546,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 431,
 		        'province_id' => 31,
 		        'name' => 'تفت',
-		        'name_en' => 'taft',
+		        'en_name' => 'taft',
 		        'latitude' => '27.97890740',
 		        'longitude' => '97.39860410'
 	        ],
@@ -2554,7 +2554,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 432,
 		        'province_id' => 31,
 		        'name' => 'خاتم',
-		        'name_en' => 'khatam',
+		        'en_name' => 'khatam',
 		        'latitude' => '37.27091520',
 		        'longitude' => '49.59691460'
 	        ],
@@ -2562,7 +2562,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 433,
 		        'province_id' => 31,
 		        'name' => 'صدوق',
-		        'name_en' => 'sadogh',
+		        'en_name' => 'sadogh',
 		        'latitude' => '32.02421620',
 		        'longitude' => '53.47703590'
 	        ],
@@ -2570,7 +2570,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 434,
 		        'province_id' => 31,
 		        'name' => 'طبس',
-		        'name_en' => 'tabas',
+		        'en_name' => 'tabas',
 		        'latitude' => '33.59583300',
 		        'longitude' => '56.92444400'
 	        ],
@@ -2578,7 +2578,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 435,
 		        'province_id' => 31,
 		        'name' => 'مهریز',
-		        'name_en' => 'mehriz',
+		        'en_name' => 'mehriz',
 		        'latitude' => '31.59166700',
 		        'longitude' => '54.43166700'
 	        ],
@@ -2586,7 +2586,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 436,
 		        'province_id' => 31,
 		        'name' => 'میبد',
-		        'name_en' => 'mybod',
+		        'en_name' => 'mybod',
 		        'latitude' => '32.24872260',
 		        'longitude' => '54.00793410'
 	        ],
@@ -2594,7 +2594,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 437,
 		        'province_id' => 31,
 		        'name' => 'یزد',
-		        'name_en' => 'yazd',
+		        'en_name' => 'yazd',
 		        'latitude' => '32.10063870',
 		        'longitude' => '54.43421380'
 	        ],
@@ -2602,7 +2602,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 438,
 		        'province_id' => 8,
 		        'name' => 'قرچک',
-		        'name_en' => 'gharchak',
+		        'en_name' => 'gharchak',
 		        'latitude' => '35.44000000',
 		        'longitude' => '51.57000000'
 	        ],
@@ -2610,7 +2610,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 439,
 		        'province_id' => 8,
 		        'name' => 'گلستان',
-		        'name_en' => 'golestan',
+		        'en_name' => 'golestan',
 		        'latitude' => '35.51000000',
 		        'longitude' => '51.16000000'
 	        ],
@@ -2618,7 +2618,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 440,
 		        'province_id' => 8,
 		        'name' => 'قدس',
-		        'name_en' => 'ghods',
+		        'en_name' => 'ghods',
 		        'latitude' => '35.72000000',
 		        'longitude' => '51.11000000'
 	        ],
@@ -2626,7 +2626,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 441,
 		        'province_id' => 8,
 		        'name' => 'ملارد',
-		        'name_en' => 'malard',
+		        'en_name' => 'malard',
 		        'latitude' => '35.66560000',
 		        'longitude' => '50.97810000'
 	        ],
@@ -2634,7 +2634,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 442,
 		        'province_id' => 8,
 		        'name' => 'نسیم‌شهر',
-		        'name_en' => 'nasimshahr',
+		        'en_name' => 'nasimshahr',
 		        'latitude' => '35.55000000',
 		        'longitude' => '51.16670000'
 	        ],
@@ -2642,7 +2642,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 443,
 		        'province_id' => 8,
 		        'name' => 'اندیشه',
-		        'name_en' => 'andishe',
+		        'en_name' => 'andishe',
 		        'latitude' => '35.68333000',
 		        'longitude' => '51.01666000'
 	        ],
@@ -2650,7 +2650,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 444,
 		        'province_id' => 8,
 		        'name' => 'صالح‌آباد',
-		        'name_en' => 'salehabad',
+		        'en_name' => 'salehabad',
 		        'latitude' => '35.51670000',
 		        'longitude' => '51.18330000'
 	        ],
@@ -2658,7 +2658,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 445,
 		        'province_id' => 8,
 		        'name' => 'باقرشهر',
-		        'name_en' => 'baghershar',
+		        'en_name' => 'baghershar',
 		        'latitude' => '35.50920000',
 		        'longitude' => '51.40220000'
 	        ],
@@ -2666,7 +2666,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 446,
 		        'province_id' => 8,
 		        'name' => 'باغستان',
-		        'name_en' => 'baghestan',
+		        'en_name' => 'baghestan',
 		        'latitude' => '35.63830000',
 		        'longitude' => '51.11220000'
 	        ],
@@ -2674,7 +2674,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 447,
 		        'province_id' => 8,
 		        'name' => 'بومهن',
-		        'name_en' => 'bomehen',
+		        'en_name' => 'bomehen',
 		        'latitude' => '35.73190000',
 		        'longitude' => '51.86470000'
 	        ],
@@ -2682,7 +2682,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 448,
 		        'province_id' => 8,
 		        'name' => 'چهاردانگه',
-		        'name_en' => 'chardangeh',
+		        'en_name' => 'chardangeh',
 		        'latitude' => '35.83690000',
 		        'longitude' => '50.84670000'
 	        ],
@@ -2690,7 +2690,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 449,
 		        'province_id' => 8,
 		        'name' => 'پیشوا',
-		        'name_en' => 'pishva',
+		        'en_name' => 'pishva',
 		        'latitude' => '35.60000000',
 		        'longitude' => '51.90000000'
 	        ],
@@ -2698,7 +2698,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 450,
 		        'province_id' => 8,
 		        'name' => 'پردیس',
-		        'name_en' => 'pardis',
+		        'en_name' => 'pardis',
 		        'latitude' => '35.73190000',
 		        'longitude' => '51.86470000'
 	        ],
@@ -2706,7 +2706,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 451,
 		        'province_id' => 8,
 		        'name' => 'وحیدیه',
-		        'name_en' => 'vahidieh',
+		        'en_name' => 'vahidieh',
 		        'latitude' => '35.59640000',
 		        'longitude' => '51.04140000'
 	        ],
@@ -2714,7 +2714,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 452,
 		        'province_id' => 8,
 		        'name' => 'نصیرآباد',
-		        'name_en' => 'nasirabad',
+		        'en_name' => 'nasirabad',
 		        'latitude' => '35.49530000',
 		        'longitude' => '51.13690000'
 	        ],
@@ -2722,7 +2722,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 453,
 		        'province_id' => 8,
 		        'name' => 'فردوسیه',
-		        'name_en' => 'ferdoseh',
+		        'en_name' => 'ferdoseh',
 		        'latitude' => '35.60000000',
 		        'longitude' => '51.06670000'
 	        ],
@@ -2730,7 +2730,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 454,
 		        'province_id' => 8,
 		        'name' => 'حسن‌آباد',
-		        'name_en' => 'hasanabad',
+		        'en_name' => 'hasanabad',
 		        'latitude' => '35.36750000',
 		        'longitude' => '51.23694400'
 	        ],
@@ -2738,7 +2738,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 455,
 		        'province_id' => 8,
 		        'name' => 'رودهن',
-		        'name_en' => 'rodehen',
+		        'en_name' => 'rodehen',
 		        'latitude' => '35.73890000',
 		        'longitude' => '51.91190000'
 	        ],
@@ -2746,7 +2746,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 456,
 		        'province_id' => 8,
 		        'name' => 'شاهدشهر',
-		        'name_en' => 'shedshahr',
+		        'en_name' => 'shedshahr',
 		        'latitude' => '35.57140000',
 		        'longitude' => '51.08390000'
 	        ],
@@ -2754,7 +2754,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 457,
 		        'province_id' => 8,
 		        'name' => 'صباشهر',
-		        'name_en' => 'sabashar',
+		        'en_name' => 'sabashar',
 		        'latitude' => '35.58330000',
 		        'longitude' => '51.11670000'
 	        ],
@@ -2762,7 +2762,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 458,
 		        'province_id' => 8,
 		        'name' => 'صفادشت',
-		        'name_en' => 'safadasht',
+		        'en_name' => 'safadasht',
 		        'latitude' => '35.68448900',
 		        'longitude' => '50.82465800'
 	        ],
@@ -2770,7 +2770,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 459,
 		        'province_id' => 8,
 		        'name' => 'لواسان',
-		        'name_en' => 'lavasan',
+		        'en_name' => 'lavasan',
 		        'latitude' => '35.82430000',
 		        'longitude' => '51.63360000'
 	        ],
@@ -2778,7 +2778,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 460,
 		        'province_id' => 8,
 		        'name' => 'آبسرد',
-		        'name_en' => 'absard',
+		        'en_name' => 'absard',
 		        'latitude' => '35.65066100',
 		        'longitude' => '52.01376100'
 	        ],
@@ -2786,7 +2786,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 461,
 		        'province_id' => 8,
 		        'name' => 'شریف‌آباد',
-		        'name_en' => 'sharifabad',
+		        'en_name' => 'sharifabad',
 		        'latitude' => '35.42750000',
 		        'longitude' => '51.78530000'
 	        ],
@@ -2794,7 +2794,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 462,
 		        'province_id' => 8,
 		        'name' => 'کهریزک',
-		        'name_en' => 'kaerizak',
+		        'en_name' => 'kaerizak',
 		        'latitude' => '35.51597200',
 		        'longitude' => '51.36221100'
 	        ],
@@ -2802,7 +2802,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 463,
 		        'province_id' => 8,
 		        'name' => 'فشم',
-		        'name_en' => 'fasham',
+		        'en_name' => 'fasham',
 		        'latitude' => '35.93080000',
 		        'longitude' => '51.52610000'
 	        ],
@@ -2810,7 +2810,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 464,
 		        'province_id' => 8,
 		        'name' => 'جوادآباد',
-		        'name_en' => 'javadabad',
+		        'en_name' => 'javadabad',
 		        'latitude' => 'null',
 		        'longitude' => 'null'
 	        ],
@@ -2818,7 +2818,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 465,
 		        'province_id' => 8,
 		        'name' => 'کیلان',
-		        'name_en' => 'kilan',
+		        'en_name' => 'kilan',
 		        'latitude' => '35.55360000',
 		        'longitude' => '52.16330000'
 	        ],
@@ -2826,7 +2826,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 466,
 		        'province_id' => 8,
 		        'name' => 'آبعلی',
-		        'name_en' => 'abali',
+		        'en_name' => 'abali',
 		        'latitude' => '35.76310000',
 		        'longitude' => '51.96560000'
 	        ],
@@ -2834,7 +2834,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 467,
 		        'province_id' => 8,
 		        'name' => 'ارجمند',
-		        'name_en' => 'arjomand',
+		        'en_name' => 'arjomand',
 		        'latitude' => '35.81580000',
 		        'longitude' => '52.51670000'
 	        ],
@@ -2842,7 +2842,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 468,
 		        'province_id' => 29,
 		        'name' => 'کیش',
-		        'name_en' => 'kish',
+		        'en_name' => 'kish',
 		        'latitude' => '26.00000000',
 		        'longitude' => '53.00000000'
 	        ],
@@ -2850,7 +2850,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 469,
 		        'province_id' => 29,
 		        'name' => 'لاوان',
-		        'name_en' => 'lavan',
+		        'en_name' => 'lavan',
 		        'latitude' => '26.00000000',
 		        'longitude' => '53.00000000'
 	        ],
@@ -2858,7 +2858,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 470,
 		        'province_id' => 29,
 		        'name' => 'پارسیان',
-		        'name_en' => 'parsian',
+		        'en_name' => 'parsian',
 		        'latitude' => '27.00000000',
 		        'longitude' => '54.00000000'
 	        ],
@@ -2866,7 +2866,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 471,
 		        'province_id' => 29,
 		        'name' => 'سیریک',
-		        'name_en' => 'sirk',
+		        'en_name' => 'sirk',
 		        'latitude' => '27.00000000',
 		        'longitude' => '54.00000000'
 	        ],
@@ -2874,7 +2874,7 @@ class CitiesTableSeeder extends Seeder
 		        'id' => 472,
 		        'province_id' => 29,
 		        'name' => 'بشاگرد',
-		        'name_en' => 'beshargad',
+		        'en_name' => 'beshargad',
 		        'latitude' => '27.00000000',
 		        'longitude' => '54.00000000'
 	        ],

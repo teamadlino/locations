@@ -24,9 +24,10 @@ class City extends Model
     protected $fillable = [
         'province_id',
         'name',
-        'name_en',
+        'en_name',
         'latitude',
-        'longitude'
+        'longitude',
+        'approved'
     ];
 
     /**
