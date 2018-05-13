@@ -19,7 +19,7 @@ class CreateCitiesTable extends Migration
             $table->foreign('province_id')->references('id')
                 ->on('provinces')->onDelete('cascade');
             $table->string('name', 64);
-            $table->string('name_en', 64)->nullable();
+            $table->string('en_name', 64)->nullable();
             $table->decimal('latitude')->nullable();
             $table->decimal('longitude')->nullable();
             $table->boolean('approved')->default(true);
