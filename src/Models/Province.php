@@ -24,6 +24,7 @@ class Province extends Model
     protected $fillable = [
         'name',
         'en_name',
+        'area_code',
         'latitude',
         'longitude',
         'approved'

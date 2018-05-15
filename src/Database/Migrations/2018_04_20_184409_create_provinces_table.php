@@ -17,9 +17,10 @@ class CreateProvincesTable extends Migration
             $table->increments('id');
             $table->string('name', 64);
             $table->string('en_name', 64)->nullable();
+            $table->unsignedTinyInteger('area_code')->nullable();
             $table->decimal('latitude', 10, 8)->nullable();
             $table->decimal('longitude', 11, 8)->nullable();
-            $table->boolean('approved')->default(true);
+            $table->boolean('approved')->default(false);
         });
     }
 
