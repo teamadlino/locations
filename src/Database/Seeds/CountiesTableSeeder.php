@@ -4,7 +4,7 @@ namespace Adlino\IranGeo\Database\Seeds;
 
 use Illuminate\Database\Seeder;
 
-class CitiesTableSeeder extends Seeder
+class CountiesTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.

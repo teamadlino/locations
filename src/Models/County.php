@@ -12,7 +12,7 @@ namespace Adlino\IranGeo\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class City extends Model
+class County extends Model
 {
     public $timestamps = false;
 
@@ -23,7 +23,6 @@ class City extends Model
      */
     protected $fillable = [
         'province_id',
-        'county_id',
         'name',
         'en_name',
         'latitude',
