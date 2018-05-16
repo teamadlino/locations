@@ -20,7 +20,7 @@ class CitiesTableSeeder extends Seeder
 			    'province_id' => 8,
 			    'county_id' => 98,
 			    'name' => 'احمد آباد مستوفي',
-			    'en_name' => 'Ahmad Abad Mostofi',
+			    'en_name' => 'Ahmadabad-E Mostowfi',
 			    'latitude' => '35.6351851',
 			    'longitude' => '51.203692',
 		    ],
@@ -101,7 +101,7 @@ class CitiesTableSeeder extends Seeder
 			    'province_id' => 8,
 			    'county_id' => 101,
 			    'name' => 'بومهن',
-			    'en_name' => 'Bomehen',
+			    'en_name' => 'Bumehen',
 			    'latitude' => '35.733646',
 			    'longitude' => '51.868124',
 		    ],
@@ -334,7 +334,7 @@ class CitiesTableSeeder extends Seeder
 			    'province_id' => 8,
 			    'county_id' => 108,
 			    'name' => 'وحيديه',
-			    'en_name' => 'Vahidie',
+			    'en_name' => 'Vahidieh',
 			    'latitude' => '35.6048346',
 			    'longitude' => '51.0162591',
 		    ],
@@ -379,7 +379,7 @@ class CitiesTableSeeder extends Seeder
 			    'province_id' => 8,
 			    'county_id' => 112,
 			    'name' => 'صفادشت',
-			    'en_name' => 'SafaDasht',
+			    'en_name' => 'Safadasht',
 			    'latitude' => '35.684489',
 			    'longitude' => '50.824658',
 		    ],
@@ -410,8 +410,6 @@ class CitiesTableSeeder extends Seeder
 			    'latitude' => '35.3448727',
 			    'longitude' => '51.6078465',
 		    ],
-	
 	    ]);
-	   
     }
 }
