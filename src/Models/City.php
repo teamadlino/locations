@@ -26,7 +26,6 @@ class City extends Model
         'county_id',
         'name',
         'en_name',
-        'area_code',
         'latitude',
         'longitude',
         'approved'

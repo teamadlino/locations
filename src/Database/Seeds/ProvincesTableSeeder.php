@@ -262,7 +262,7 @@ class ProvincesTableSeeder extends Seeder
                 'area_code' => (int) '035',
                 'latitude' => '31.879685',
                 'longitude' => '54.2667267'
-            ]
+            ],
         ]);
     }
 }
