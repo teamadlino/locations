@@ -192,6 +192,14 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '49.9466454',
             ],
             [
+                'id' => 267,
+                'province_id' => 19,
+                'name' => 'قم',
+                'en_name' => 'Qom',
+                'latitude' => '34.6887845',
+                'longitude' => '50.7119792',
+            ],
+            [
                 'id' => 411,
                 'province_id' => 30,
                 'name' => 'اسدآباد',
