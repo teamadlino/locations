@@ -1,4 +1,4 @@
-Adlino/IranGeo
+IranGeo
 ==========
 Iran Provinces and Cities helper for Laravel.
 
