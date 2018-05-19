@@ -464,6 +464,7 @@ class CitiesTableSeeder extends Seeder
                 'latitude' => '34.3919658',
                 'longitude' => '50.8546399',
             ],
+
 	    ]);
     }
 }
