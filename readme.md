@@ -11,7 +11,13 @@ composer require adlino/locations
 php artisan locations:publish
 ```
 This will copy the `database/seeds` and `database/migrations` to your application.
-Remember to add `$this->call(LocationTableSeeder::class);` in the `DatabaseSeeder.php`
+Remember to add 
+```php 
+$this->call(ProvincesTableSeeder::class);
+$this->call(CountiesTableSeeder::class);
+$this->call(CitiesTableSeeder::class); 
+```
+in the `DatabaseSeeder.php`
 
 ## Usage
 ```php
@@ -29,7 +35,13 @@ $cities = $province->getCities();
 
 // get counties of province
 $counties = $province->getCounties();
+
+// get area code of tehran province
+$areaCode = $province->getAreaCode(); // 021
 ```
+
+
+
 
 
 
