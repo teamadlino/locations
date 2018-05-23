@@ -13,11 +13,6 @@ php artisan locations:publish
 This will copy the `database/seeds` and `database/migrations` to your application.
 Remember to add `$this->call(LocationTableSeeder::class);` in the `DatabaseSeeder.php`
 
-```bash
-php artisan locations:publish --files=all
-```
-This will copy the `models` to their respective directories.
-
 ## Usage
 ```php
 // get all provinces
