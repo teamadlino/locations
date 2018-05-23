@@ -1,6 +1,6 @@
 <?php
 
-namespace Adlino\IranGeo\Database\Seeds;
+namespace Adlino\Locations\Seeds;
 
 use Adlino\IranGeo\Models\City;
 use Illuminate\Database\Seeder;

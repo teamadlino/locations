@@ -1,48 +1,40 @@
-IranGeo
-==========
-Iran Provinces and Cities helper for Laravel.
+# Locations
+Iran Provinces, Counties and Cities with a Google Map Location for Laravel.
 
 ## Installation
-
-### Composer
-
-Execute the following command to get the latest version of the package:
-
-```terminal
-composer require adlino/iran-geo
+```bash
+composer require adlino/locations
 ```
 
-### Laravel
+## Commands
+```bash
+php artisan locations:publish
+```
+This will copy the `database/seeds` and `database/migrations` to your application.
+Remember to add `$this->call(LocationTableSeeder::class);` in the `DatabaseSeeder.php`
 
-In your `config/app.php` add `Adlino\IranGeo\IranGeoServiceProvider::class` to the end of the `providers` array:
+```bash
+php artisan locations:publish --files=all
+```
+This will copy the `models` to their respective directories.
 
+## Usage
 ```php
-'providers' => [
-    ...
-    Adlino\IranGeo\IranGeoServiceProvider::class,
-],
+// get all provinces
+$provinces = Locations::getAllProvinces(); // return approved provinces
 
-'alias' => [
-    ...
-    'irGeo' => Adlino\IranGeo\Facades\irGeoFacade::class
-]
+// get all counties
+$counties = Locations::getAllCounties(); // return approved counties
+
+// get all cities
+$cities = Locations::getAllCities(); // return approved cities
+
+// get cities of province
+$cities = $province->getCities();
+
+// get counties of province
+$counties = $province->getCounties();
 ```
 
-Publish Configuration
 
-```shell
-php artisan vendor:publish --tag=irGeo
-```
 
-Migrate the new tables
-
-```shell
-php artisan migrate
-```
-
-Seeder Tables
-
-```shell
-php artisan db:seed --class="Adlino\IranGeo\Database\Seeds\ProvincesTableSeeder" 
-php artisan db:seed --class="Adlino\IranGeo\Database\Seeds\CitiesTableSeeder"
-```

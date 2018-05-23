@@ -7,15 +7,15 @@
  * Time: 3:12 PM
  */
 
-namespace Adlino\IranGeo\Facades;
+namespace Adlino\Locations\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
 
-class irGeoFacade extends Facade
+class locations extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'irGeo';
+        return 'locations';
     }
 }

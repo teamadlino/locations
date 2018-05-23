@@ -7,8 +7,7 @@
  * Time: 10:35 PM
  */
 
-namespace Adlino\IranGeo\Models;
-
+namespace Adlino\Locations\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
@@ -31,11 +30,21 @@ class Province extends Model
     ];
 
     /**
+     * Relations with counties
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function getCounties()
+    {
+        return $this->hasMany(County::class);
+    }
+
+    /**
      * Relations with cities
      *
      * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
-    public function cities()
+    public function getCities()
     {
         return $this->hasMany(City::class);
     }

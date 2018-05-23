@@ -7,13 +7,14 @@
  * Time: 10:20 PM
  */
 
-namespace Adlino\IranGeo;
+namespace Adlino\Locations;
 
 
-use Adlino\IranGeo\Models\City;
-use Adlino\IranGeo\Models\Province;
+use Adlino\Locations\Models\City;
+use Adlino\Locations\Models\County;
+use Adlino\Locations\Models\Province;
 
-class irGeo
+class locations
 {
     /**
      * @return \Illuminate\Database\Eloquent\Collection|static[]
@@ -21,6 +22,14 @@ class irGeo
     public function getAllProvinces()
     {
         return Province::whereApproved(true)->get();
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getAllCounties()
+    {
+        return County::whereApproved(true)->get();
     }
 
     /**

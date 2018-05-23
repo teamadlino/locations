@@ -1,30 +1,43 @@
 {
-    "name": "adlino/iran-geo",
-    "description": "Iran Provinces and Cities helper for Laravel.",
+    "name": "adlino/locations",
+    "description": "Iran Provinces, Counties and Cities with a Google Map Location for Laravel.",
     "keywords": [
-        "iran",
-        "geo",
-        "provinces",
-        "cities",
         "laravel",
-        "adlino"
+        "locations",
+        "iran",
+        "provinces",
+        "counties",
+        "cities",
+        "latitude",
+        "longitude"
     ],
     "license": "MIT",
     "authors": [
         {
             "name": "Alireza Hamedashki",
             "email": "a.hamedashki@gmail.com"
+        },
+        {
+            "name": "Saman Moghimi",
+            "email": "saman.moghimi@hotmail.com"
         }
     ],
     "require": {
-        "php": ">=5.5",
-        "illuminate/support": "^5.0"
+        "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
-            "Adlino\\IranGeo\\": "src"
+            "Adlino\\Locations\\": "src"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Adlino\\Locations\\LocationsServiceProvider"
+            ],
+            "aliases": {
+                "Locations": "Adlino\\Locations\\Facades\\Locations"
+            }
+        }
+    }
 }
