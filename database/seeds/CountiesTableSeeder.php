@@ -2,7 +2,7 @@
 
 namespace Adlino\Locations\Seeds;
 
-use Adlino\IranGeo\Models\County;
+use Adlino\Locations\Models\County;
 use Illuminate\Database\Seeder;
 
 class CountiesTableSeeder extends Seeder
@@ -2165,7 +2165,7 @@ class CountiesTableSeeder extends Seeder
                 'name' => 'بیجار',
                 'en_name' => 'Bijar',
                 'latitude' => '35.8727737',
-                'longitude' => ',47.5806282',
+                'longitude' => '47.5806282',
             ],
             [
                 'id' => 270,
@@ -3092,7 +3092,7 @@ class CountiesTableSeeder extends Seeder
                 'name' => 'نوشهر',
                 'en_name' => 'Nowshahr',
                 'latitude' => '36.6502418',
-                'longitude' => '51.4693374,',
+                'longitude' => '51.4693374',
             ],
             [
                 'id' => 386,
@@ -3151,7 +3151,7 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '50.333333',
             ],
             [
-                'id' => 293,
+                'id' => 393,
                 'province_id' => 28,
                 'name' => 'ساوه',
                 'en_name' => 'Saveh',
@@ -3159,7 +3159,7 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '50.3315873',
             ],
             [
-                'id' => 294,
+                'id' => 394,
                 'province_id' => 28,
                 'name' => 'شازند',
                 'en_name' => 'Shazand',
@@ -3167,7 +3167,7 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '49.3882225',
             ],
             [
-                'id' => 295,
+                'id' => 395,
                 'province_id' => 28,
                 'name' => 'فراهان',
                 'en_name' => 'Farahan',
@@ -3175,7 +3175,7 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '49.6503687',
             ],
             [
-                'id' => 296,
+                'id' => 396,
                 'province_id' => 28,
                 'name' => 'کمیجان',
                 'en_name' => 'Komijan',
@@ -3183,7 +3183,7 @@ class CountiesTableSeeder extends Seeder
                 'longitude' => '49.3050956',
             ],
             [
-                'id' => 297,
+                'id' => 397,
                 'province_id' => 28,
                 'name' => 'محلات',
                 'en_name' => 'Mahalat',

@@ -2,7 +2,7 @@
 
 namespace Adlino\Locations\Seeds;
 
-use Adlino\IranGeo\Models\Province;
+use Adlino\Locations\Models\Province;
 use Illuminate\Database\Seeder;
 
 class ProvincesTableSeeder extends Seeder
