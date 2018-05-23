@@ -1,7 +1,5 @@
 <?php
 
-namespace Adlino\Locations\Seeds;
-
 use Adlino\Locations\Models\City;
 use Illuminate\Database\Seeder;
 
