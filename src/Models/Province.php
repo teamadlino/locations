@@ -48,4 +48,14 @@ class Province extends Model
     {
         return $this->hasMany(City::class);
     }
+
+    /**
+     * prepend leading zero before area code
+     *
+     * @return string
+     */
+    public function getAreaCode()
+    {
+        return sprintf('%03d', $this->area_code);
+    }
 }
