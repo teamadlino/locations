@@ -6,18 +6,12 @@ Iran Provinces, Counties and Cities with a Google Map Location for Laravel.
 composer require adlino/locations
 ```
 
-## Commands
+## Publish and init
 ```bash
-php artisan locations:publish
+php artisan vendor:publish --force --provider="Adlino\Locations\LocationsServiceProvider"
+composer dump-autoload
+php artisan locations:init
 ```
-This will copy the `database/seeds` and `database/migrations` to your application.
-Remember to add 
-```php 
-$this->call(ProvincesTableSeeder::class);
-$this->call(CountiesTableSeeder::class);
-$this->call(CitiesTableSeeder::class); 
-```
-in the `DatabaseSeeder.php`
 
 ## Usage
 ```php

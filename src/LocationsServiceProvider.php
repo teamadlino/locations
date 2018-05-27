@@ -9,21 +9,16 @@
 
 namespace Adlino\Locations;
 
-
 use Illuminate\Support\ServiceProvider;
-use Adlino\Locations\Commands\PublishCommand;
 
 class LocationsServiceProvider extends ServiceProvider
 {
     /**
-     * Register the application services.
+     * Indicates if loading of the provider is deferred.
      *
-     * @return void
+     * @var bool
      */
-    public function register()
-    {
-        $this->app->bind('locations', function () { return new Locations; });
-    }
+    protected $defer = false;
 
     /**
      * Bootstrap the application services.
@@ -32,21 +27,41 @@ class LocationsServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->registerCommand(PublishCommand::class, 'publish');
+        $this->publishMigrations();
+        $this->publishSeeds();
     }
 
     /**
-     * Register a singleton command
+     * Register the application services.
      *
-     * @param $class
-     * @param $command
+     * @return void
      */
-    private function registerCommand($class, $command)
+    public function register()
     {
-        $path = 'adlino.locations.commands.';
-        $this->app->singleton($path . $command, function ($app) use ($class) {
-            return $app[$class];
-        });
-        $this->commands($path . $command);
+        $this->app->bind('locations', function () { return new Locations; });
+        $this->registerCommands();
+    }
+
+    /**
+     * Publish migration file.
+     */
+    private function publishMigrations()
+    {
+        $this->loadMigrationsFrom(__DIR__ . '/../database/migrations/');
+    }
+
+    /**
+     * Publish seeder file.
+     */
+    private function publishSeeds()
+    {
+        $this->publishes([__DIR__ . '/../database/seeds/' => base_path('database/seeds')], 'seeds');
+    }
+
+    private function registerCommands()
+    {
+        $this->commands([
+            \Adlino\Locations\Console\InitCommand::class,
+        ]);
     }
 }
