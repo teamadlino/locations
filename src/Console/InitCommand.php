@@ -47,9 +47,9 @@ class InitCommand extends Command
         $this->info('Execute migrate first, migrating ...');
         $this->call('migrate');
         $this->info('Seeding Data ...');
-        $this->call('db:seed', ["--class" => "ProvincesTablesSeeder"]);
-        $this->call('db:seed', ["--class" => "CountiesTablesSeeder"]);
-        $this->call('db:seed', ["--class" => "CitiesTablesSeeder"]);
+        $this->call('db:seed', ["--class" => "ProvincesTableSeeder"]);
+        $this->call('db:seed', ["--class" => "CountiesTableSeeder"]);
+        $this->call('db:seed', ["--class" => "CitiesTableSeeder"]);
         $this->info('Done!');
     }
 }
