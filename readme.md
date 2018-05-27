@@ -6,7 +6,7 @@ Iran Provinces, Counties and Cities with a Google Map Location for Laravel.
 composer require adlino/locations
 ```
 
-## Publish and init
+## Publish
 ```bash
 php artisan vendor:publish --force --provider="Adlino\Locations\LocationsServiceProvider"
 composer dump-autoload
