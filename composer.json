@@ -2,24 +2,20 @@
     "name": "adlino/locations",
     "description": "Iran Provinces, Counties and Cities with a Google Map Location for Laravel.",
     "keywords": [
-        "laravel",
-        "locations",
-        "iran",
-        "provinces",
-        "counties",
-        "cities",
-        "latitude",
-        "longitude"
+        "Laravel",
+        "Locations",
+        "Iran",
+        "Provinces",
+        "Counties",
+        "Cities",
+        "Latitude",
+        "Longitude"
     ],
     "license": "MIT",
     "authors": [
         {
             "name": "Alireza Hamedashki",
             "email": "a.hamedashki@gmail.com"
-        },
-        {
-            "name": "Saman Moghimi",
-            "email": "saman.moghimi@hotmail.com"
         }
     ],
     "require": {
