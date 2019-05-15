@@ -1,4 +1,9 @@
 # Locations
+
+[![License](https://poser.pugx.org/adlino/locations/license)](https://packagist.org/packages/adlino/locations)
+[![Latest Stable Version](https://poser.pugx.org/adlino/locations/v/stable)](https://packagist.org/packages/adlino/locations)
+[![Total Downloads](https://poser.pugx.org/adlino/locations/downloads)](https://packagist.org/packages/adlino/locations)
+
 Iran Provinces, Counties and Cities with a Google Map Location for Laravel.
 
 ## Installation
